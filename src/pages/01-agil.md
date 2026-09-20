@@ -13,7 +13,7 @@ In dieser Einheit erschließt ihr euch die Inhalte weitgehend **selbstständig i
 
 Die Module sind zeitlich so knapp bemessen, dass ihr das Lernprodukt **nur gemeinsam** schafft: teils zusammen, teils **arbeitsteilig**. Es ist zum Beispiel nicht nötig, dass jedes Teammitglied jeden Text liest. Stehen zwei Texte zur Auswahl, liest Person A Text A und Person B Text B; anschließend erklären sich beide gegenseitig das Wichtigste und lösen die Aufgabe gemeinsam. Person C bearbeitet währenddessen eine andere Aufgabe. Entscheidend ist der **regelmäßige Austausch** über die Ergebnisse.
 
-> **Teamarbeit** ist ein teils gemeinsames, teils arbeitsteiliges Bearbeiten der Aufgaben. Das Team tauscht sich regelmäßig über abgeschlossene Aufgaben aus. Das Lernprodukt wird gemeinsam erstellt – und alle können es erklären.
+> **Teamarbeit** ist ein teils gemeinsames, teils arbeitsteiliges Bearbeiten der Aufgaben. Das Team tauscht sich regelmäßig über abgeschlossene Aufgaben aus. Das Lernprodukt wird gemeinsam erstellt – und alle können es erklären!
 
 ## Die Rollen
 
