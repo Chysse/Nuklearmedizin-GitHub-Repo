@@ -1,0 +1,4 @@
+markdown>=3.5
+pymdown-extensions>=10
+lxml>=5
+playwright>=1.45
