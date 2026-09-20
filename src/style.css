@@ -1,0 +1,166 @@
+/* ---------- Grundlagen ---------- */
+:root{
+  --bg:#f7f7f4; --paper:#ffffff; --ink:#1f2933; --muted:#5b6770; --line:#dfe3e6;
+  --accent:#0b6e8f; --accent-soft:#e3f1f6;
+  --m0:#6b7280; --m1:#c0392b; --m2:#2e86ab; --m3:#2a9d8f; --m4:#e07a1f; --m5:#7b5ea7;
+  --ok:#2f855a; --warn:#b7791f; --danger:#c53030;
+  --radius:12px; --maxw:52rem;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+a{color:var(--accent)}
+img{max-width:100%;height:auto;border-radius:6px}
+h1,h2,h3,h4{line-height:1.25;margin:1.4em 0 .5em}
+h1{font-size:1.9rem;margin-top:0}
+h2{font-size:1.4rem;border-bottom:2px solid var(--line);padding-bottom:.2em}
+h3{font-size:1.15rem}
+h4{font-size:1rem;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+p,ul,ol,table,figure,blockquote{margin:0 0 1em}
+li{margin:.2em 0}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.9em;background:#eef1f3;padding:.1em .35em;border-radius:4px}
+pre{background:#eef1f3;padding:.8em 1em;border-radius:8px;overflow:auto}
+pre code{background:none;padding:0}
+blockquote{border-left:4px solid var(--accent);background:var(--accent-soft);margin:1em 0;padding:.6em 1em;border-radius:0 8px 8px 0}
+blockquote blockquote{background:#fff;border-color:var(--muted)}
+hr{border:0;border-top:1px solid var(--line);margin:2em 0}
+.skip{position:absolute;left:-999px}
+.skip:focus{left:8px;top:8px;background:#fff;padding:.5em;z-index:99}
+
+/* ---------- Tabellen ---------- */
+table{border-collapse:collapse;width:100%;font-size:.95em;background:var(--paper)}
+th,td{border:1px solid var(--line);padding:.45em .6em;vertical-align:top;text-align:left}
+th{background:#eef1f3}
+tr:nth-child(even) td{background:#fafbfb}
+.table-wrap{overflow-x:auto;margin-bottom:1em}
+td:empty{height:2.3em;background:#fff}
+.raster table td:last-child{white-space:nowrap}
+
+/* ---------- Formeln ---------- */
+.math-inline svg{vertical-align:middle;max-width:100%}
+.math-display{display:block;text-align:center;margin:.8em 0;overflow-x:auto}
+.math-display svg{max-width:100%}
+.math-inline{white-space:nowrap}
+
+/* ---------- Figuren ---------- */
+figure{margin:1.2em 0;text-align:center}
+figure img{max-height:55vh}
+figcaption{font-size:.85em;color:var(--muted);margin-top:.4em}
+img.img-small{max-width:260px}
+.img-row{display:flex;flex-wrap:wrap;gap:1em;justify-content:center}
+.img-row figure{flex:1 1 200px;margin:0}
+
+/* ---------- Hinweiskästen (admonitions) ---------- */
+.admonition{border:1px solid var(--line);border-left-width:6px;border-radius:8px;padding:.7em 1em;margin:1.2em 0;background:var(--paper)}
+.admonition>:last-child{margin-bottom:0}
+.admonition-title{font-weight:700;margin:0 0 .4em}
+.admonition-title::before{margin-right:.4em}
+.admonition.aufgabe{border-left-color:var(--accent)} .aufgabe>.admonition-title::before{content:"✎"}
+.admonition.lernprodukt{border-left-color:#7b5ea7;background:#f6f2fb} .lernprodukt>.admonition-title::before{content:"★"}
+.admonition.sprint{border-left-color:#2a9d8f;background:#eef8f6} .sprint>.admonition-title::before{content:"⟳"}
+.admonition.info{border-left-color:#2e86ab} .info>.admonition-title::before{content:"ℹ"}
+.admonition.tipp{border-left-color:var(--ok);background:#f0faf4} .tipp>.admonition-title::before{content:"💡"}
+.admonition.warnung{border-left-color:var(--danger);background:#fff5f5} .warnung>.admonition-title::before{content:"⚠"}
+.admonition.video{border-left-color:#e07a1f;background:#fff8f0;border-style:dashed} .video>.admonition-title::before{content:"▶"}
+.admonition.lehrkraft{border-left-color:#6b7280;background:#f3f4f6} .lehrkraft>.admonition-title::before{content:"👩‍🏫"}
+.admonition.zusatz{border-left-color:#b7791f;background:#fffaf0} .zusatz>.admonition-title::before{content:"＋"}
+.admonition.warum{border-left-color:#c0392b;background:#fdf2f0} .warum>.admonition-title::before{content:"?"}
+details.admonition summary{cursor:pointer;font-weight:700}
+
+/* ---------- Checklisten ---------- */
+.task-list-item{list-style:none;margin-left:-1.4em}
+.task-list-control{position:relative;display:inline-block;margin-right:.4em}
+.task-list-control input{position:absolute;opacity:0;width:0;height:0}
+.task-list-indicator{display:inline-block;width:1.1em;height:1.1em;border:2px solid var(--muted);border-radius:4px;vertical-align:-.2em;background:#fff}
+.task-list-control input:checked+.task-list-indicator{background:var(--ok);border-color:var(--ok)}
+.task-list-control input:checked+.task-list-indicator::after{content:"✓";color:#fff;font-size:.85em;position:relative;left:.15em;top:-.25em;font-weight:700}
+li.task-list-item.done>label,li.task-list-item.done>.task-list-control+*{color:var(--muted);text-decoration:line-through}
+
+/* ---------- Arbeitspakete / Kriterien / Scrum ---------- */
+.ap{display:inline-block;background:#fde68a;border-radius:6px;padding:0 .4em;font-weight:600}
+.kr{display:inline-block;background:#bfdbfe;border-radius:6px;padding:0 .4em;font-weight:600}
+.warumtag{display:inline-block;background:#fecaca;border-radius:6px;padding:0 .4em;font-weight:600}
+.sprintplan{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:.6em;margin:1em 0}
+.sprintplan div{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:.6em .8em;font-size:.95em}
+.sprintplan b{display:block;color:var(--accent)}
+.board{display:grid;grid-template-columns:repeat(3,1fr);gap:.5em;margin:1em 0}
+.board div{border:1px dashed var(--muted);border-radius:8px;min-height:6em;padding:.4em .6em;background:#fff}
+.board b{display:block;text-align:center;border-bottom:1px solid var(--line);margin-bottom:.3em}
+.becher{display:flex;gap:.8em;flex-wrap:wrap;margin:1em 0}
+.becher div{flex:1 1 160px;border-radius:8px;padding:.6em .8em;color:#fff}
+.becher .gruen{background:#2f855a} .becher .gelb{background:#d69e2e} .becher .rot{background:#c53030}
+.becher b{display:block;font-size:1.1em}
+
+/* ---------- Layout ---------- */
+.layout{display:flex;min-height:100vh}
+.sidebar{flex:0 0 260px;background:#fff;border-right:1px solid var(--line);padding:1em;position:sticky;top:0;height:100vh;overflow-y:auto}
+.brand a{font-weight:800;font-size:1.2em;text-decoration:none;color:var(--ink)}
+.brandmark{color:var(--m4)}
+.brand .sub{display:block;font-size:.8em;color:var(--muted);margin-bottom:.8em}
+.navtoggle{display:none}
+.sitenav a{text-decoration:none;color:var(--ink);display:block;padding:.25em .5em;border-radius:6px;font-size:.95em}
+.sitenav a:hover{background:var(--accent-soft)}
+.sitenav a.active{background:var(--accent);color:#fff}
+.sitenav .navhead{font-weight:700;margin-top:.5em}
+.sitenav ul{list-style:none;margin:0 0 .3em;padding-left:.8em}
+.sitenav li a{font-size:.9em;color:var(--muted)}
+.content{flex:1 1 auto;padding:1.5em 2em 3em;max-width:calc(var(--maxw) + 4em)}
+.page{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);padding:1.5em 2em;margin-bottom:2em}
+.pagehead{margin-bottom:1em}
+.badge{display:inline-block;font-size:.75em;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:#fff;background:var(--accent);border-radius:999px;padding:.15em .7em;margin-bottom:.4em}
+.pagefoot{margin-top:2em;padding-top:.8em;border-top:1px solid var(--line);font-size:.9em}
+.sitefoot{text-align:center;color:var(--muted);font-size:.8em;padding:1em}
+
+/* Modulfarben */
+.badge.m0{background:var(--m0)} .badge.m1{background:var(--m1)} .badge.m2{background:var(--m2)}
+.badge.m3{background:var(--m3)} .badge.m4{background:var(--m4)} .badge.m5{background:var(--m5)}
+
+/* Modul-Kacheln auf der Startseite */
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:.8em;margin:1em 0}
+.tile{display:block;border:1px solid var(--line);border-top:6px solid var(--accent);border-radius:10px;padding:.8em 1em;text-decoration:none;color:var(--ink);background:#fff}
+.tile:hover{box-shadow:0 2px 10px rgba(0,0,0,.08)}
+.tile b{display:block;font-size:1.05em}
+.tile small{display:block;color:var(--muted);margin-top:.3em}
+.tile.m0{border-top-color:var(--m0)} .tile.m1{border-top-color:var(--m1)} .tile.m2{border-top-color:var(--m2)}
+.tile.m3{border-top-color:var(--m3)} .tile.m4{border-top-color:var(--m4)} .tile.m5{border-top-color:var(--m5)}
+
+/* Mit JavaScript: nur die aktive Seite anzeigen */
+body.js .page{display:none}
+body.js .page.active{display:block}
+body.js .page{border:0;margin-bottom:0}
+.progress{font-size:.8em;color:var(--muted);margin:.5em 0}
+.progress span{display:inline-block;height:.5em;background:var(--ok);border-radius:3px;vertical-align:middle}
+.pagenav{display:flex;justify-content:space-between;gap:1em;margin-top:1.5em}
+.pagenav a{text-decoration:none;border:1px solid var(--line);border-radius:8px;padding:.4em .8em}
+.nojs-note{font-size:.85em;color:var(--muted);background:#fffaf0;border:1px solid #f6e05e;border-radius:8px;padding:.5em .8em;margin-bottom:1em}
+body.js .nojs-note{display:none}
+
+/* ---------- Schmale Bildschirme (iPad hochkant, Handy) ---------- */
+@media (max-width: 900px){
+  .layout{display:block}
+  .sidebar{position:sticky;top:0;height:auto;max-height:none;border-right:0;border-bottom:1px solid var(--line);padding:.6em 1em;z-index:5}
+  .brand{display:flex;align-items:baseline;gap:.6em;flex-wrap:wrap}
+  .brand .sub{margin:0}
+  .navwide{display:none}
+  .navtoggle{display:block}
+  .navtoggle summary{display:block;cursor:pointer;font-weight:700;padding:.3em 0;list-style:none}
+  .navtoggle summary::before{content:"☰ "}
+  .navtoggle[open] summary::before{content:"✕ "}
+  .sitenav{max-height:60vh;overflow-y:auto}
+  .content{padding:1em;max-width:none}
+  .page{padding:1em 1em}
+  body{font-size:16px}
+}
+@media (max-width: 600px){ h1{font-size:1.5rem} .board{grid-template-columns:1fr} }
+
+/* ---------- Druck ---------- */
+@media print{
+  body{background:#fff;font-size:12pt}
+  .sidebar,.sitefoot,.pagefoot,.pagenav,.nojs-note,.progress{display:none}
+  .layout{display:block} .content{padding:0;max-width:none}
+  .page{display:block!important;border:0;page-break-before:always;padding:0}
+  .page:first-child{page-break-before:auto}
+  a{color:inherit;text-decoration:none}
+  .admonition{break-inside:avoid}
+  figure img{max-height:12cm}
+}

@@ -1,0 +1,16 @@
+name: Ergänzung / Streichung
+description: Etwas fehlt (Aufgabe, Material, Kriterium) oder sollte raus.
+title: "[Inhalt] "
+labels: [inhalt]
+body:
+  - type: dropdown
+    id: modul
+    attributes:
+      label: Modul
+      options: [Arbeitsweise, Modul 0, Modul I, Modul II, Modul III, Modul IV, Modul V, Lehrkräfte-Seiten, Übergreifend]
+    validations: { required: true }
+  - type: textarea
+    id: was
+    attributes:
+      label: Was soll ergänzt oder gestrichen werden – und warum?
+    validations: { required: true }

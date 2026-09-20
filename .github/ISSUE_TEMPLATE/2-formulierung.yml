@@ -1,0 +1,15 @@
+name: Formulierung / Verständlichkeit
+description: Ein Satz oder Abschnitt ist für die Zielgruppe (Jahrgang 9/10) unklar, zu lang oder zu schwer.
+title: "[Text] "
+labels: [formulierung]
+body:
+  - type: input
+    id: stelle
+    attributes:
+      label: Wo?
+    validations: { required: true }
+  - type: textarea
+    id: vorschlag
+    attributes:
+      label: Vorschlag
+      description: Gern gleich den neuen Satz hinschreiben – oder direkt in der Datei ändern und hier nur begründen.

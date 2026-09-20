@@ -1,0 +1,20 @@
+name: Fachlicher Fehler
+description: Eine Aussage ist physikalisch falsch oder ungenau.
+title: "[Fachlich] "
+labels: [fachlich]
+body:
+  - type: input
+    id: stelle
+    attributes:
+      label: Wo?
+      description: Seite (z. B. „Infotext Strahlungsarten“) und Abschnitt oder Satzanfang
+    validations: { required: true }
+  - type: textarea
+    id: problem
+    attributes:
+      label: Was ist falsch?
+    validations: { required: true }
+  - type: textarea
+    id: vorschlag
+    attributes:
+      label: Vorschlag für die korrekte Formulierung (mit Quelle, falls vorhanden)
