@@ -76,9 +76,10 @@ Verschafft euch einen Überblick über die Arbeitspakete und die Aufgaben. Notie
 
 - [ ] Schutzmaßnahmen beim Zahnarzt gesammelt, Leitfrage und Unterfragen formuliert
 - [ ] Scrumboard angelegt, Scrum Captain bestimmt
-- [ ] Infotext Röntgenstrahlung gelesen, Film gesehen (2 Personen)
-- [ ] Infotext Strahlungsarten gelesen (2 Personen)
-- [ ] Infotext biologische Strahlenwirkung gelesen (alle, kompakt oder ausführlich)
+- [ ] Film Röntgenstrahlung gesehen
+- [ ] Infotext Strahlungsarten gelesen 
+- [ ] Infotext biologische Strahlenwirkung gelesen
+- [ ] Infotext Dosisgrößen gelesen
 - [ ] Strahlungsarten-Tabelle im Team erklärt
 - [ ] Wirkungskette und deterministisch/stochastisch erklärt
 - [ ] Dosis der Zahnröntgenaufnahme recherchiert und verglichen

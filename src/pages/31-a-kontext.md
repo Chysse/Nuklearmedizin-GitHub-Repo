@@ -18,7 +18,7 @@ Lest das Informationsblatt und bearbeitet die Aufgaben. Notiert die Antworten so
 
 1. Beschreibt den Ablauf einer Schilddrüsen-Szintigraphie in einfachen Schritten.
 2. Erläutert, warum bei der Szintigraphie eine radioaktive Substanz eingesetzt wird – und warum es ein **Gammastrahler** sein muss (Hilfe: [Infotext Strahlungsarten](#info-strahlungsarten)).
-3. Gebt die zu erwartende Strahlenbelastung an und ordnet ihre biologische Wirkung ein (Hilfe: [Infotext Biologische Strahlenwirkung](#info-bio-kompakt)).
+3. Gebt die zu erwartende Strahlenbelastung an und ordnet ihre biologische Wirkung ein (Hilfe: [Infotext Biologische Strahlenwirkung](#info-bio-ausfuhrlich)).
 4. Sammelt alle Fragen, die Frau A. nach dem Lesen vermutlich *noch* hat – sie bilden das Gerüst eurer Patienteninformation.
 
 ## M1 · Informationsblatt zur Schilddrüsen-Szintigraphie

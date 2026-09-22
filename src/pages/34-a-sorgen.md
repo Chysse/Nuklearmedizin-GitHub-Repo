@@ -37,7 +37,7 @@ Hilfe zum Lesen der Schreibweise $^{99}_{42}\mathrm{Mo}$ und zu den Zerfallsarte
 
 1. Erklärt diese Schutzmaßnahme mit zwei der [fünf A](#info-fuenf-a) und mit dem [Abstandsgesetz](#info-abstandsgesetz).
 2. Ist es sinnvoll, die Maßnahme „sicherheitshalber“ auf eine Woche auszudehnen? Rechnet mit der Halbwertszeit: Wie viel Prozent der Aktivität sind nach 24 h, nach 48 h, nach einer Woche noch vorhanden?
-3. Warum gelten für Kinder und Schwangere strengere Regeln als für Erwachsene? (Hilfe: [Infotext Biologische Strahlenwirkung](#info-bio-kompakt), Abschnitt zur Empfindlichkeit von Gewebe.)
+3. Warum gelten für Kinder und Schwangere strengere Regeln als für Erwachsene? (Hilfe: [Infotext Biologische Strahlenwirkung](#info-bio-ausfuehrlich), Abschnitt zur Empfindlichkeit von Gewebe.)
 
 **Aufgabe 6 – Für die Patienteninformation.** Formuliert drei Verhaltensregeln für die ersten 24 Stunden nach der Szintigraphie (Abstand zu Kleinkindern und Schwangeren, viel trinken und häufig zur Toilette, Hände waschen) – jede Regel mit einer physikalischen Begründung in einem Satz.
 

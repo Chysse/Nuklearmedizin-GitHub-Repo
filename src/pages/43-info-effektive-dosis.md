@@ -12,7 +12,7 @@ Frau A. ist wegen der Untersuchung mit radioaktiven Substanzen beunruhigt; Frau 
 
 ## Infotext · Effektive Dosis
 
-Trifft ionisierende Strahlung auf den Körper, kommt es in den Zellen zu einer biologischen Wirkung, und die Zellen können Schaden nehmen ([Infotext Biologische Strahlenwirkung](#info-bio-kompakt)). Um diese Wirkung zu beschreiben, gibt es im Strahlenschutz mehrere, zum Teil ähnliche Größen. Die zentrale Größe zur Beurteilung des **Risikos für den ganzen Körper** ist die **effektive Dosis** $E$. Sie wird in **Sievert (Sv)** angegeben, in der Medizin meist in Millisievert (1 mSv = 0,001 Sv).
+Trifft ionisierende Strahlung auf den Körper, kommt es in den Zellen zu einer biologischen Wirkung, und die Zellen können Schaden nehmen ([Infotext Biologische Strahlenwirkung](#info-bio-ausfuehrlich)). Um diese Wirkung zu beschreiben, gibt es im Strahlenschutz mehrere, zum Teil ähnliche Größen. Die zentrale Größe zur Beurteilung des **Risikos für den ganzen Körper** ist die **effektive Dosis** $E$. Sie wird in **Sievert (Sv)** angegeben, in der Medizin meist in Millisievert (1 mSv = 0,001 Sv).
 
 Die effektive Dosis gibt im Wesentlichen an, wie viel Strahlungsenergie der Körper aufgenommen hat, bezogen auf seine Masse. In die Berechnung fließen zwei weitere Dinge ein:
 
