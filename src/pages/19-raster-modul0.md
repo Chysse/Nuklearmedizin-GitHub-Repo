@@ -32,7 +32,7 @@ Die Skala gilt einheitlich für alle Einzelkriterien; die Erwartung bei voller P
 | Kriterium | Erwartung bei voller Punktzahl (6 Punkte) | Punkte |
 | --- | --- | --- |
 | **Strahlungsarten und Röntgenstrahlung** | Alpha-, Beta-, Gamma- und Röntgenstrahlung werden korrekt nach Art (Teilchen/elektromagnetisch), Ladung, Reichweite und Abschirmung eingeordnet; die Entstehung der Röntgenstrahlung in der Röhre wird richtig von der Kernstrahlung abgegrenzt. | 0 · 1 · 2 · 3 · 4 · 5 · 6 |
-| **Wirkung im Körper** | Die Begriffe *Ionisation*, *Radikale*, *Reparatur*, *Zelltod* und *Mutation* werden korrekt verwendet; deterministische und stochastische Wirkung sind unterschieden. | 0 · 1 · 2 · 3 · 4 · 5 · 6 |
+| **Wirkung im Körper** | Die Begriffe *Ionisierende Wirkung*, *natürliche und künstliche Strahlungsquellen*, *Energiedosis*, *Äquivalentdosis*, *Zellschäden* werden korrekt verwendet; deterministische und stochastische Wirkung sind unterschieden. | 0 · 1 · 2 · 3 · 4 · 5 · 6 |
 | **Dosis und Bleischürze** | Die Dosis einer Zahnröntgenaufnahme wird mit Zahl, Vergleich und Quelle angegeben; die Schutzwirkung der Bleischürze wird mit Halbwertsdicke bzw. Abschirmung begründet. | 0 · 1 · 2 · 3 · 4 · 5 · 6 |
 
 

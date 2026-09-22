@@ -3,7 +3,7 @@ id: info-roentgen
 title: Infotext – Röntgenstrahlung
 nav: Infotext · Röntgenstrahlung
 group: Modul 0
-order: 11
+order: 100
 badge: Modul 0 · Infotext
 mod: 0
 ---

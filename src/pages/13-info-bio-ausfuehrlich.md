@@ -3,12 +3,12 @@ id: info-bio-ausfuehrlich
 title: Infotext – Biologische Strahlenwirkung (ausführlich)
 nav: Infotext · Biologische Strahlenwirkung (ausführlich)
 group: Modul 0
-order: 13
+order: 12
 badge: Modul 0 · Infotext
 mod: 0
 ---
 
-Ionisierende Strahlung (Röntgenstrahlung, radioaktive Strahlung) ist sehr energiereich. Trifft sie auf den menschlichen Körper oder andere Lebewesen, kann das zu Schädigungen der Zellen und damit zu schwerwiegenden gesundheitlichen Folgen führen. Um die Wirkung einschätzen zu können, sind vier Fragen wichtig:
+Ionisierende Strahlung (Röntgenstrahlung, ionisierende Strahlung) ist sehr energiereich. Trifft sie auf den menschlichen Körper oder andere Lebewesen, kann das zu Schädigungen der Zellen und damit zu schwerwiegenden gesundheitlichen Folgen führen. Um die Wirkung einschätzen zu können, sind vier Fragen wichtig:
 
 - Ist die Strahlenquelle **außerhalb oder innerhalb** des Körpers?
 - Welche **Strahlenart** trifft auf den Körper?
@@ -19,31 +19,36 @@ Ionisierende Strahlung (Röntgenstrahlung, radioaktive Strahlung) ist sehr energ
 
 Die Energie der Strahlung kann in den Körperzellen Ionisationsprozesse auslösen. Als Folge können Zellen **direkt** geschädigt werden, weil für die Funktion der Zelle wichtige Moleküle zerstört werden oder nicht mehr wie vorgesehen funktionieren. Darüber hinaus kann eine **indirekte** Schädigung stattfinden: Werden Wassermoleküle im Körper ionisiert, bilden sich chemisch sehr reaktive **Radikale**, die ebenfalls Moleküle in den Zellen zerstören oder deren Funktion beeinträchtigen.
 
-![Strahlenbiologische Wirkungskette](assets/wirkungskette.jpg "Strahlenbiologische Wirkungskette (Quelle: Material zum Strahlenschutzkurs, M. Täschner, IRS Uni Hannover, bearbeitet)")
+![Strahlenbiologische Wirkungskette](assets/wirkungskette.jpg "Strahlenbiologische Wirkungskette (KI-generiert)")
 
-Die Schädigung einer Zelle führt nicht zwangsläufig zu einem bleibenden Schaden, da Zellen sich zum Teil selbst reparieren können. Auch kann der Körper geschädigte Zellen erkennen und aussondern. Dann bleibt der Schaden ohne Folgen für den Organismus. Wenn allerdings die Reparatursysteme geschwächt oder überfordert sind oder durch hohe Dosen sehr viele Zellen geschädigt werden, funktioniert dieser „interne Reparaturmechanismus“ nicht mehr.
+Eine Zellschädigung hat nicht automatisch dauerhafte Auswirkungen auf den Körper. Je nach Art und Ausmaß des Schadens können Zellen beschädigte Strukturen wiederherstellen. Darüber hinaus verfügt der Organismus über Kontrollmechanismen, durch die stark geschädigte oder nicht mehr funktionsfähige Zellen erkannt und beseitigt werden können. Dadurch kann verhindert werden, dass aus einer einzelnen Zellschädigung eine bleibende Beeinträchtigung entsteht.
+Diese Schutzmechanismen haben jedoch Grenzen. Sind die Schäden zu umfangreich, treten sie bei sehr vielen Zellen gleichzeitig auf (z. B. durch eine sehr hohe Dosis) oder sind die Reparaturprozesse beeinträchtigt, können die körpereigenen Möglichkeiten zur Schadensbegrenzung nicht mehr ausreichen. In solchen Fällen können dauerhafte Veränderungen oder Schäden für den Organismus entstehen.
 
 ## Äußere und innere Bestrahlung, Strahlungsarten
 
+Ob ionisierende Strahlung den Körper schädigen kann, hängt unter anderem davon ab, um welche Strahlungsart es sich handelt und auf welchem Weg die Strahlung auf den Körper einwirkt.
+
 **Äußere Bestrahlung**
 
-- $\alpha$-Strahlung kann die Haut nicht durchdringen. Sie kann daher die Keimschicht der Haut, in der die Zellerneuerung stattfindet, nicht schädigen.
-- Energiereiche $\beta$-Strahlung kann einige Millimeter in die Haut eindringen, sodass es bei hoher Intensität zu Hautschäden oder zu einer Trübung der Augenlinse kommen kann.
-- Neutronenstrahlung (n) und $\gamma$-Strahlung können sehr weit in den Körper eindringen und dort Zellen schädigen und Biomoleküle (auch die DNA) zerstören.
+Bei einer Bestrahlung von außen treffen die Teilchen oder die elektromagnetische Strahlung auf die Körperoberfläche. Die Reichweite in biologischem Gewebe unterscheidet sich dabei deutlich:
+
+- $\alpha$-Strahlung besitzt nur eine sehr geringe Eindringtiefe und wird bereits an der äußeren Hautschicht abgeschirmt. Die darunterliegende Keimschicht wird bei einer äußeren Bestrahlung daher in der Regel nicht erreicht.
+- Energiereiche $\beta$-Strahlung kann tiefer in das Gewebe eindringen. Bei einer ausreichend hohen Strahlenintensität sind deshalb beispielsweise Schäden an der Haut möglich.
+- $\gamma$-Strahlung haben eine wesentlich größere Reichweite im Körper. Sie können deshalb auch tiefer liegende Gewebe erreichen und dort durch Ionisationen Zellstrukturen und Biomoleküle, einschließlich der DNA, verändern oder beschädigen.
 
 **Innere Bestrahlung (Inkorporation)**
 
-Während $\alpha$- und $\beta$-Strahlung von außen keine große Gefahr darstellen, erhöht sich das Risiko deutlich, wenn die strahlenden Stoffe durch Nahrung oder Atmung in den Körper gelangen – man spricht von **Inkorporation**. $\alpha$-Teilchen sind so energiereich, dass sie entlang der kurzen Strecke, die sie im Gewebe zurücklegen, zahlreiche Ionisationen bewirken. Die betroffenen Zellen mit ihren Kernen, in denen die Erbinformation gespeichert ist, werden dadurch zum Teil irreparabel geschädigt.
+Eine andere Situation entsteht, wenn radioaktive Stoffe in den Körper aufgenommen werden. Dies kann beispielsweise über die Atemluft oder die Nahrung geschehen und wird als Inkorporation bezeichnet. Die Strahlungsquelle befindet sich dann unmittelbar im Körper und kann das umliegende Gewebe bestrahlen.
+Insbesondere α-Strahlung ist in diesem Fall relevant: Obwohl α-Teilchen von außen nur eine sehr kurze Strecke durch Gewebe zurücklegen, geben sie auf dieser Strecke ihre Energie sehr dicht an das umgebende Material ab. Dadurch können in den betroffenen Zellen zahlreiche Ionisationen entstehen. Werden dabei Zellbestandteile oder die DNA beschädigt, können Veränderungen zurückbleiben, die von der Zelle nicht vollständig repariert werden können.
 
-![Inkorporation über Luft und Nahrung; Bestrahlung von außen durch Alpha-, Beta-, Gamma- und Neutronenstrahlung](assets/inkorporation.jpg "Inkorporation (Aufnahme über Luft und Nahrung) und Bestrahlung von außen")
+![Inkorporation über Luft und Nahrung; Bestrahlung von außen durch Alpha-, Beta-, Gamma- und Neutronenstrahlung](assets/inkorporation.jpg "Inkorporation (Aufnahme über Luft und Nahrung) und Bestrahlung von außen - Quelle: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de) / FWU Institut für Film und Bild")
 
-## Strahlendosis, deterministische und stochastische Schäden
+## Deterministische und stochastische Schäden
 
 Die Wirkung von Strahlung hängt stark von der aufgenommenen Dosis und der Strahlungsart ab. Außerdem ist wichtig, wie sich die Dosis über den Körper **verteilt** (breit verteilt oder auf enge Bereiche konzentriert) und ob sie in **kurzer Zeit oder über einen längeren Zeitraum** aufgenommen wird. Schließlich reagieren unterschiedliche Organe unterschiedlich empfindlich auf Strahlung.
 
-Bei der Angabe der Strahlendosis berücksichtigt man auch die Strahlungsart: $\alpha$-Strahlung im Körper wird 20-mal stärker gewichtet als $\beta$- oder $\gamma$-Strahlung. Diese gewichtete Dosis heißt **Äquivalentdosis**; ihre Einheit ist das **Sievert (Sv)**. Im Alltag begegnen einem meist Millisievert (1 mSv = 0,001 Sv) oder Mikrosievert (1 µSv = 0,000 001 Sv).
-
-Die durchschnittliche natürliche Strahlenbelastung in Deutschland liegt bei etwa **2,1 mSv pro Jahr** und kann je nach Lebensgewohnheiten, Wohnort und Ernährung zwischen 1 mSv und 10 mSv schwanken. Dazu kommen im Mittel etwa 1,9 mSv pro Jahr aus zivilisatorischen Quellen – fast ausschließlich aus der Medizin. Der menschliche Körper hat im Laufe der Evolution gelernt, mit der natürlichen Belastung umzugehen.
+Strahlenbelastung furch ionisierende Strahlung kommt auf verschiedenen Wegen zustande, es gibt natürliche und künstliche Strahlungsquellen. Die durchschnittliche natürliche Strahlenbelastung in Deutschland liegt bei etwa **2,1 mSv pro Jahr** (1 mSv = 1 Millisievert = 0,001 Sv) und kann je nach Lebensgewohnheiten, Wohnort und Ernährung zwischen 1 mSv und 10 mSv schwanken. Dazu kommen im Mittel etwa 1,9 mSv pro Jahr aus zivilisatorischen Quellen – fast ausschließlich aus der Medizin. Natürliche ionisierende Strahlung ist seit jeher Bestandteil der Umwelt des Menschen, der menschliche Körper hat sich daran angepasst.
+Die Angaben zur Strahlenbelastung beziehen sich auf die sogenannte **effektive Dosis**. Weitere Informationen zu den **Dosisgrößen** findest du im Infotext Dosisgrößen.
 
 ![Kreisdiagramm: natürliche Strahlenexposition ca. 2,1 mSv/a (Radon, terrestrische Strahlung, Nahrung, kosmische Strahlung) und künstliche Strahlenexposition ca. 1,9 mSv/a (fast vollständig Medizin)](assets/exposition.jpg "Mittlere Strahlenexposition in Deutschland pro Jahr (nach Angaben des Bundesamts für Strahlenschutz)")
 

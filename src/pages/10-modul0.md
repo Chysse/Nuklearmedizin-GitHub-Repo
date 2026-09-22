@@ -18,12 +18,13 @@ Im Folgenden findet ihr euren **Sprint-Plan**. Diesen sollt ihr zukünftig selbs
 
 ## Sprint-Plan (3 Einzelstunden, 135 Minuten)
 Denk an das 5min-**Stand-up** zu Beginn jeder Stunde.
+
 | Zeit | Im Unterricht | Zu Hause |
 | --- | --- | --- |
 | ca. 15 min | Überblick verschaffen & **Sprint-Planung** (Scrumboard, Scrum Captain) | |
 | ca. 10 min | Arbeitspaket A - Einstiegsbild | |
 | ca. 35 min | Arbeitspaket B - Film und Infotext | ggf. zu Hause zu Ende |
-| ca. 35 min | Arbeitspaket C - Infotext und Recherche | |
+| ca. 30 min | Arbeitspaket C - Infotext und Recherche | |
 | ca. 35 min | Arbeitspaket D - Lernprodukt: Erklärkarte erstellen | ggf. fertigstellen |
 | ca. 10 min | **Review & Retro:** z. B. Karten im Raum auslegen, ein anderes Team gibt Feedback; Vier-Felder-Retro | |
 
@@ -43,13 +44,13 @@ Verschafft euch einen Überblick über die Arbeitspakete und die Aufgaben. Notie
     <span class="kr">Kriterium:</span> Jedes Teammitglied kann die drei Strahlungsarten und Röntgenstrahlung in einer Tabelle (Was ist es? Ladung? Reichweite? Abschirmung?) ohne Vorlage einordnen.
 
 !!! aufgabe "Arbeitspaket C · Was macht Strahlung im Körper?"
-    <span class="ap">C1</span> Lest den Infotext zur biologischen Strahlenwirkung ([kompakt](#info-bio-kompakt) oder [ausführlich](#info-bio-ausfuehrlich)).<br>
+    <span class="ap">C1</span> Lest den [Infotext](#info-bio-ausfuehrlich) zur biologischen Strahlenwirkung.<br>
     <span class="ap">C2</span> Beschreibt in eigenen Worten die Wirkungskette von der Ionisation bis zum gesundheitlichen Schaden und erklärt den Unterschied zwischen **deterministischen** und **stochastischen** Schäden.<br>
     <span class="ap">C3</span> Recherchiert die effektive Dosis einer Zahnröntgenaufnahme und vergleicht sie mit der natürlichen Strahlenbelastung eines Jahres in Deutschland (Startpunkt: [BfS – Röntgen](https://www.bfs.de/DE/themen/ion/anwendung-medizin/diagnostik/roentgen/roentgen_node.html)).<br>
-    <span class="kr">Kriterien:</span> Die Begriffe *Ionisation*, *Radikale*, *Reparatur*, *Zelltod*, *Mutation* werden korrekt verwendet; der Dosisvergleich ist mit Zahlen und Quelle belegt.
+    <span class="kr">Kriterien:</span> Die Begriffe *Ionisierende Wirkung*, *natürliche und künstliche Strahlungsquellen*, *Energiedosis*, *Äquivalentdosis*, *Zellschäden* werden korrekt verwendet; der Dosisvergleich ist mit Zahlen und Quelle belegt.
 
 !!! aufgabe "Arbeitspaket D · Lernprodukt"
-    Erstellt die **Erklärkarte fürs Wartezimmer** (siehe unten).<br>
+    Erstellt eine **Erklärkarte fürs Wartezimmer** (siehe unten).<br>
     <span class="kr">Kriterien:</span> DIN A5, Vorder- und Rückseite · verständlich für Menschen ohne Physikunterricht · beantwortet die vier Fragen · mindestens eine eigene Skizze · Zahlenangaben mit Quelle · Teamname.
 
 !!! lernprodukt "Lernprodukt: Erklärkarte fürs Wartezimmer"
@@ -60,15 +61,14 @@ Verschafft euch einen Überblick über die Arbeitspakete und die Aufgaben. Notie
     3. **Warum die Bleischürze, warum geht die Helferin raus?** (erste Idee von Abschirmung und Abstand – genau kommt das in Modul I)
     4. **Wie viel Strahlung ist das?** (Dosis der Aufnahme im Vergleich zur natürlichen Belastung)
 
-!!! zusatz "Wer schneller fertig ist"
+!!! "zusatz"
     Recherchiert, welche Untersuchungen mit welcher effektiven Dosis verbunden sind (Zahnröntgen, Lungenröntgen, CT des Bauchraums, Flug nach New York) und ordnet sie auf einer Skala an.
 
-!!! video "Film: Wilhelm Conrad Röntgen und die Röntgenstrahlen"
-    Aus der Reihe „Meilensteine der Naturwissenschaft und Technik“: [YouTube-Link](https://www.youtube.com/watch?v=ewfDvY57t8o) (ca. 15 Minuten). Notiert beim Ansehen: Wie hat Röntgen die Strahlen entdeckt? Welche Eigenschaften hat er beobachtet? Wofür wurden sie sofort genutzt – und was wusste man damals noch nicht über die Gefahren?
 
 
 !!! info "So wird bewertet"
     Das [Bewertungsraster zu diesem Modul](#raster-modul0) zeigt für jedes Kriterium, was für die volle Punktzahl erwartet wird. Lest es vor der Sprint-Planung.
+
 
 ## Vorschlag für euer Scrumboard
 
