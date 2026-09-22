@@ -6,12 +6,16 @@
 - Ohne JavaScript: alle Seiten stehen untereinander, Navigation über Sprungmarken
 - Mit JavaScript: Seitenumschaltung, gemerkte Checklisten (localStorage), Fortschritt
 """
-import base64, json, mimetypes, os, re, subprocess, sys, html, datetime
+import base64, io, json, mimetypes, os, re, subprocess, sys, html, datetime
 import markdown
+from PIL import Image
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, '..', 'src')
 OUT = os.path.join(HERE, '..', 'build', 'Nuklearmedizin.html')
+
+MAX_IMG_DIM = 1400   # siehe README: Bilder max. ca. 1400 px
+JPEG_QUALITY = 82
 
 # ---------- Formeln --------------------------------------------------------
 _math_items = []          # (tex, display)
@@ -44,10 +48,45 @@ def _insert_math(htmltext):
     return re.sub('\x00MATH(\\d+)\x00', repl, htmltext)
 
 # ---------- Bilder ---------------------------------------------------------
+def _optimize_image(path):
+    """Skaliert ein Bild auf max. MAX_IMG_DIM px und komprimiert es fürs Einbetten.
+    Bilder ohne genutzten Alphakanal werden als JPEG gespeichert (bei Fotos/
+    KI-Bildern oft 70-90% kleiner als PNG); Bilder mit echter Transparenz
+    bleiben PNG. So bleibt die HTML-Datei klein, egal wie groß die Quelldatei
+    im Repository ist - niemand muss Bilder vor dem Hochladen selbst verkleinern."""
+    img = Image.open(path)
+    img.load()
+    has_alpha = False
+    if img.mode in ('RGBA', 'LA'):
+        has_alpha = img.getchannel('A').getextrema()[0] < 255
+    elif img.mode == 'P' and 'transparency' in img.info:
+        has_alpha = True
+
+    if max(img.size) > MAX_IMG_DIM:
+        img.thumbnail((MAX_IMG_DIM, MAX_IMG_DIM), Image.LANCZOS)
+
+    buf = io.BytesIO()
+    if has_alpha:
+        img.save(buf, format='PNG', optimize=True)
+        mime = 'image/png'
+    else:
+        if img.mode != 'RGB':
+            img = img.convert('RGB')
+        img.save(buf, format='JPEG', quality=JPEG_QUALITY, optimize=True)
+        mime = 'image/jpeg'
+    return mime, buf.getvalue()
+
 def data_uri(path):
-    mime = mimetypes.guess_type(path)[0] or 'application/octet-stream'
-    with open(path, 'rb') as f:
-        return f'data:{mime};base64,{base64.b64encode(f.read()).decode()}'
+    try:
+        mime, data = _optimize_image(path)
+    except Exception as e:
+        # Unbekanntes/beschädigtes Format -> Originaldatei unverändert einbetten,
+        # statt den ganzen Build abzubrechen.
+        print(f'  ! Bild konnte nicht optimiert werden ({os.path.basename(path)}): {e}', file=sys.stderr)
+        mime = mimetypes.guess_type(path)[0] or 'application/octet-stream'
+        with open(path, 'rb') as f:
+            data = f.read()
+    return f'data:{mime};base64,{base64.b64encode(data).decode()}'
 
 def embed_images(htmltext):
     def repl(m):

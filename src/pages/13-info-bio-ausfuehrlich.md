@@ -19,7 +19,7 @@ Ionisierende Strahlung (Röntgenstrahlung, ionisierende Strahlung) ist sehr ener
 
 Die Energie der Strahlung kann in den Körperzellen Ionisationsprozesse auslösen. Als Folge können Zellen **direkt** geschädigt werden, weil für die Funktion der Zelle wichtige Moleküle zerstört werden oder nicht mehr wie vorgesehen funktionieren. Darüber hinaus kann eine **indirekte** Schädigung stattfinden: Werden Wassermoleküle im Körper ionisiert, bilden sich chemisch sehr reaktive **Radikale**, die ebenfalls Moleküle in den Zellen zerstören oder deren Funktion beeinträchtigen.
 
-![Strahlenbiologische Wirkungskette](assets/Strahlenbiologische_Wirkungskette.png "Strahlenbiologische Wirkungskette (KI-generiert)")
+![Strahlenbiologische Wirkungskette](assets/Strahlenbiologische_Wirkungskette.jpg "Strahlenbiologische Wirkungskette (KI-generiert)")
 
 Eine Zellschädigung hat nicht automatisch dauerhafte Auswirkungen auf den Körper. Je nach Art und Ausmaß des Schadens können Zellen beschädigte Strukturen wiederherstellen. Darüber hinaus verfügt der Organismus über Kontrollmechanismen, durch die stark geschädigte oder nicht mehr funktionsfähige Zellen erkannt und beseitigt werden können. Dadurch kann verhindert werden, dass aus einer einzelnen Zellschädigung eine bleibende Beeinträchtigung entsteht.
 
@@ -43,7 +43,7 @@ Eine andere Situation entsteht, wenn radioaktive Stoffe in den Körper aufgenomm
 
 Insbesondere α-Strahlung ist in diesem Fall relevant: Obwohl α-Teilchen von außen nur eine sehr kurze Strecke durch Gewebe zurücklegen, geben sie auf dieser Strecke ihre Energie sehr dicht an das umgebende Material ab. Dadurch können in den betroffenen Zellen zahlreiche Ionisationen entstehen. Werden dabei Zellbestandteile oder die DNA beschädigt, können Veränderungen zurückbleiben, die von der Zelle nicht vollständig repariert werden können.
 
-![Inkorporation über Luft und Nahrung; Bestrahlung von außen durch Alpha-, Beta-, Gamma- und Neutronenstrahlung](assets/Inkorporationbild.png "Inkorporation (Aufnahme über Luft und Nahrung) und Bestrahlung von außen - Quelle: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de) / FWU Institut für Film und Bild")
+![Inkorporation über Luft und Nahrung; Bestrahlung von außen durch Alpha-, Beta-, Gamma- und Neutronenstrahlung](assets/Inkorporationbild.jpg "Inkorporation (Aufnahme über Luft und Nahrung) und Bestrahlung von außen - Quelle: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de) / FWU Institut für Film und Bild")
 
 ## Deterministische und stochastische Schäden
 
@@ -53,7 +53,7 @@ Strahlenbelastung furch ionisierende Strahlung kommt auf verschiedenen Wegen zus
 
 Die Angaben zur Strahlenbelastung beziehen sich auf die sogenannte **effektive Dosis**. Weitere Informationen zu den **Dosisgrößen** findest du im [Infotext Dosisgrößen](#infotext-dosisgroessen-alltag).
 
-![Kreisdiagramm: natürliche Strahlenexposition ca. 2,1 mSv/a (Radon, terrestrische Strahlung, Nahrung, kosmische Strahlung) und künstliche Strahlenexposition ca. 1,9 mSv/a (fast vollständig Medizin)](assets/Diagramm.png "Mittlere Strahlenexposition in Deutschland pro Jahr (KI-generiert nach Angaben des Bundesamts für Strahlenschutz)")
+![Kreisdiagramm: natürliche Strahlenexposition ca. 2,1 mSv/a (Radon, terrestrische Strahlung, Nahrung, kosmische Strahlung) und künstliche Strahlenexposition ca. 1,9 mSv/a (fast vollständig Medizin)](assets/Diagramm.jpg "Mittlere Strahlenexposition in Deutschland pro Jahr (KI-generiert nach Angaben des Bundesamts für Strahlenschutz)")
 
 ### Deterministische Schäden
 
