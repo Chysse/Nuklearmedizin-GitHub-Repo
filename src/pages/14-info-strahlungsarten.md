@@ -3,7 +3,7 @@ id: info-strahlungsarten
 title: Infotext – Strahlungsarten
 nav: Infotext · Strahlungsarten (α, β, γ)
 group: Modul 0
-order: 11
+order: 12
 badge: Modul 0 · Infotext
 mod: 0
 ---
@@ -18,7 +18,7 @@ Aus dem Radium ist ein neues Element entstanden, das Radon. Der Heliumkern wird 
 
 Du erkennst: Die Summe der Massenzahlen und die Summe der Ordnungszahlen bleiben beim Alphazerfall erhalten. Heliumkerne sind elektrisch **positiv** geladen – deshalb wird Alphastrahlung in elektrischen und magnetischen Feldern abgelenkt. Alphastrahlung hat ein sehr **geringes Durchdringungsvermögen**: In Luft kommt sie nur wenige Zentimeter weit, und bereits ein Blatt Papier schirmt sie vollständig ab.
 
-![Alpha-Zerfall: Ein schwerer Kern sendet einen Heliumkern aus](assets/alpha.png "Alpha-Zerfall (KI-generiert)"){: .img-small }
+![Alpha-Zerfall: Ein schwerer Kern sendet einen Heliumkern aus](assets/alpha-decay.jpg "Alpha-Zerfall (Quelle: [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) MikeRun)"){: .img-small }
 
 ## Beta-Strahlung
 
@@ -28,7 +28,7 @@ $$^{137}_{55}\mathrm{Cs} \rightarrow\ ^{137}_{56}\mathrm{Ba} + \mathrm{e}^-$$
 
 An der Gleichung erkennst du, dass sich auch Betastrahler in ein neues Element umwandeln: Aus Cäsium wird Barium, die Massenzahl bleibt gleich, die Ordnungszahl steigt um eins. Auch beim Betazerfall bleibt die elektrische Ladung insgesamt erhalten.[^1] Betastrahlung ist **negativ** geladen und wird daher – entgegengesetzt zur Alphastrahlung – in Feldern abgelenkt. In Luft reicht sie einige Meter weit; einige Millimeter Aluminium schirmen sie ab.
 
-![Beta-Zerfall des Kohlenstoffisotops C-14](assets/beta.png "Beta-Zerfall (KI-generiert)"){: .img-small }
+![Beta-Zerfall des Kohlenstoffisotops C-14](assets/beta-decay.jpg "Beta-Zerfall (Quelle: [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) MikeRun)"){: .img-small }
 
 ## Gamma-Strahlung
 
@@ -38,7 +38,7 @@ $$^{222}_{86}\mathrm{Rn}^{*} \rightarrow\ ^{222}_{86}\mathrm{Rn} + \gamma$$
 
 Der Stern bedeutet: Der Kern befindet sich in einem angeregten Zustand mit überschüssiger Energie. Gammastrahlung tritt häufig nach einem Alpha- oder Betazerfall auf, weil der neu entstandene Kern noch Energie abgibt. Sie lässt sich in elektrischen und magnetischen Feldern **nicht** ablenken, weil sie nicht aus geladenen Teilchen besteht. Gammastrahlung hat ein wesentlich **höheres Durchdringungsvermögen** als Alpha- oder Betastrahlung: Selbst dicke Schichten aus Beton oder Blei schwächen sie nur ab, schirmen sie aber nie vollständig ab.
 
-![Gamma-Strahlung: Ein angeregter Kern gibt Energie als Gammaquant ab](assets/gamma.png "Gamma-Strahlung"){: .img-small }
+![Gamma-Strahlung: Ein angeregter Kern gibt Energie als Gammaquant ab](assets/gamma-decay.jpg "Gamma-Strahlung (Quelle: [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) MikeRun)"){: .img-small }
 
 ## Und Röntgenstrahlung?
 
@@ -59,7 +59,7 @@ Röntgenstrahlung verhält sich wie Gammastrahlung (elektromagnetisch, ungeladen
 
 Welche Strahlungsart ein Präparat aussendet, lässt sich im Experiment auf zwei Wegen herausfinden: Einerseits über das **Durchdringungsvermögen** verschiedener Abschirmungen (. Abb. unten; Papier stoppt α, einige Millimeter Aluminium stoppen β, γ wird erst von dickem Blei merklich geschwächt) oder über die **Ablenkung im elektischen Feld** (Additum-Link).
 
-![Abschirmung durch verschiedene Materialien: Papier, Aluminium und Blei](assets/strahlung_magnetfeld_abschirmung.jpg "Unterscheidung der Strahlungsarten im Magnetfeld (links) und durch Abschirmung (rechts) – Quelle: [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.de) / FWU Institut für Film und Bild")
+![Abschirmung durch verschiedene Materialien: Papier, Aluminium und Blei](assets/radiactive-penetration.jpg "Unterscheidung der Strahlungsarten durch Abschirmung (Quelle: [CC-BY-2.5](https://creativecommons.org/licenses/by/2.5/deed.en), [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [GFDL](https://de.wikipedia.org/wiki/GNU-Lizenz_f%C3%BCr_freie_Dokumentation) Stannered, Ehamberg, MikeRun)")
 
 
 !!! info "Weiterlesen"

@@ -44,7 +44,7 @@ Verschafft euch einen Überblick über die Arbeitspakete und die Aufgaben. Notie
     <span class="kr">Kriterium:</span> Jedes Teammitglied kann die drei Strahlungsarten und Röntgenstrahlung in einer Tabelle (Was ist es? Ladung? Reichweite? Abschirmung?) ohne Vorlage einordnen.
 
 !!! aufgabe "Arbeitspaket C · Was macht Strahlung im Körper?"
-    <span class="ap">C1</span> Lest den [Infotext](#info-bio-ausfuehrlich) zur biologischen Strahlenwirkung.<br>
+    <span class="ap">C1</span> Lest den [Infotext](#info-bio-ausfuehrlich) und [Infotext](#infotext-dosisgroessen-alltag) zur biologischen Strahlenwirkung.<br>
     <span class="ap">C2</span> Beschreibt in eigenen Worten die Wirkungskette von der Ionisation bis zum gesundheitlichen Schaden und erklärt den Unterschied zwischen **deterministischen** und **stochastischen** Schäden.<br>
     <span class="ap">C3</span> Recherchiert die effektive Dosis einer Zahnröntgenaufnahme und vergleicht sie mit der natürlichen Strahlenbelastung eines Jahres in Deutschland (Startpunkt: [BfS – Röntgen](https://www.bfs.de/DE/themen/ion/anwendung-medizin/diagnostik/roentgen/roentgen_node.html)).<br>
     <span class="kr">Kriterien:</span> Die Begriffe *Ionisierende Wirkung*, *natürliche und künstliche Strahlungsquellen*, *Energiedosis*, *Äquivalentdosis*, *Zellschäden* werden korrekt verwendet; der Dosisvergleich ist mit Zahlen und Quelle belegt.
@@ -61,9 +61,11 @@ Verschafft euch einen Überblick über die Arbeitspakete und die Aufgaben. Notie
     3. **Warum die Bleischürze, warum geht die Helferin raus?** (erste Idee von Abschirmung und Abstand – genau kommt das in Modul I)
     4. **Wie viel Strahlung ist das?** (Dosis der Aufnahme im Vergleich zur natürlichen Belastung)
 
-!!! "zusatz"
+!!! zusatz "Zum Weiterdenken (optional)"
     Recherchiert, welche Untersuchungen mit welcher effektiven Dosis verbunden sind (Zahnröntgen, Lungenröntgen, CT des Bauchraums, Flug nach New York) und ordnet sie auf einer Skala an.
 
+!!! zusatz "Zum Weiterdenken (optional)"
+    Vergleicht die natürliche Jahresdosis mit der Dosis einer einzelnen CT-Untersuchung. Was bedeutet das für die Abwägung von Nutzen und Risiko bei einer medizinisch notwendigen Untersuchung?
 
 
 !!! info "So wird bewertet"
