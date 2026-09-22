@@ -8,4 +8,4 @@ badge: Modul 0 · Infotext
 mod: 0
 ---
 
-![Patientin beim Zahnarzt](Roentgenaufnahme.png "Patientin beim Zahnarzt (KI-generiert)")
+![Patientin beim Zahnarzt](assets/Roentgenaufnahme.png "Patientin beim Zahnarzt (KI-generiert)")
