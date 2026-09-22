@@ -13,15 +13,32 @@ Beim Zahnarzt soll ein Röntgenbild gemacht werden. Bevor es losgeht, bekommst d
 !!! warum "Warum ist das wichtig?"
     Röntgen, CT, Szintigraphie, Bestrahlung: Fast alle werden im Leben mit ionisierender Strahlung untersucht oder behandelt. Wer versteht, *wie* Strahlung auf Zellen wirkt, kann Schutzmaßnahmen einordnen – und in den nächsten Modulen die beiden Fallgeschichten wirklich verstehen.
 
+
+Im Folgenden findet ihr euren **Sprint-Plan**. Diesen sollt ihr zukünftig selbst erstellen.
+
+## Sprint-Plan (3 Einzelstunden, 135 Minuten)
+Denk an das 5min-**Stand-up** zu Beginn jeder Stunde.
+| Zeit | Im Unterricht | Zu Hause |
+| --- | --- | --- |
+| ca. 15 min | Überblick verschaffen & **Sprint-Planung** (Scrumboard, Scrum Captain) | |
+| ca. 10 min | Arbeitspaket A - Einstiegsbild | |
+| ca. 35 min | Arbeitspaket B - Film und Infotext | ggf. zu Hause zu Ende |
+| ca. 35 min | Arbeitspaket C - Infotext und Recherche | |
+| ca. 35 min | Arbeitspaket D - Lernprodukt: Erklärkarte erstellen | ggf. fertigstellen |
+| ca. 10 min | **Review & Retro:** z. B. Karten im Raum auslegen, ein anderes Team gibt Feedback; Vier-Felder-Retro | |
+
+## Scrumboard
+Verschafft euch einen Überblick über die Arbeitspakete und die Aufgaben. Notiert die Aufgaben (z. B. auf Post-Its) und füllt nun euer Scrumboard. Vorschläge dazu findet ihr am Ende der Seite.
+
 ## Arbeitspakete und Kriterien
 
 !!! aufgabe "Arbeitspaket A · Die Situation beim Zahnarzt"
-    <span class="ap">A1</span> Seht das Einstiegsbild (Patient beim Zahnarzt-Röntgen) und sammelt im Team alle Schutzmaßnahmen, die ihr erkennt oder aus eigener Erfahrung kennt (Bleischürze, Abstand, kurze Belichtung, Helferin draußen …).<br>
+    <span class="ap">A1</span> Seht das Einstiegsbild (Patient beim Zahnarzt-Röntgen) und sammelt im Team alle Schutzmaßnahmen, die ihr erkennt oder aus eigener Erfahrung kennt.<br>
     <span class="ap">A2</span> Formuliert daraus eure **Leitfrage** und mindestens drei Unterfragen, die ihr in diesem Modul beantworten wollt.<br>
     <span class="kr">Kriterium:</span> Die Fragen sind physikalisch beantwortbar („Wie tief dringt Röntgenstrahlung in Blei ein?“ statt „Ist Röntgen gefährlich?“).
 
-!!! aufgabe "Arbeitspaket B · Was ist Röntgenstrahlung? (arbeitsteilig)"
-    <span class="ap">B1</span> Zwei Personen lesen den [Infotext Röntgenstrahlung](#info-roentgen) und sehen den Film zu Wilhelm Conrad Röntgen; zwei Personen lesen den [Infotext Strahlungsarten](#info-strahlungsarten).<br>
+!!! aufgabe "Arbeitspaket B · Was ist Röntgenstrahlung?"
+    <span class="ap">B1</span> Schaut den Film zu Wilhelm Conrad Röntgen [YouTube-Link](https://www.youtube.com/watch?v=ewfDvY57t8o) (ca. 15 Minuten) und lest anschließend den [Infotext Strahlungsarten](#info-strahlungsarten).<br>
     <span class="ap">B2</span> Erklärt euch gegenseitig: Was haben Röntgen- und Gammastrahlung gemeinsam, was unterscheidet sie von Alpha- und Betastrahlung? Was heißt „ionisierend“?<br>
     <span class="kr">Kriterium:</span> Jedes Teammitglied kann die drei Strahlungsarten und Röntgenstrahlung in einer Tabelle (Was ist es? Ladung? Reichweite? Abschirmung?) ohne Vorlage einordnen.
 
@@ -49,16 +66,6 @@ Beim Zahnarzt soll ein Röntgenbild gemacht werden. Bevor es losgeht, bekommst d
 !!! video "Film: Wilhelm Conrad Röntgen und die Röntgenstrahlen"
     Aus der Reihe „Meilensteine der Naturwissenschaft und Technik“: [YouTube-Link](https://www.youtube.com/watch?v=ewfDvY57t8o) (ca. 15 Minuten). Notiert beim Ansehen: Wie hat Röntgen die Strahlen entdeckt? Welche Eigenschaften hat er beobachtet? Wofür wurden sie sofort genutzt – und was wusste man damals noch nicht über die Gefahren?
 
-## Sprint-Plan (1,5 Doppelstunden, 135 Minuten)
-
-| Zeit | Im Unterricht | Zu Hause |
-| --- | --- | --- |
-| ca. 15 min | Einstiegsbild, Leitfrage, **Sprint-Planung** (Scrumboard, Scrum Captain) | |
-| ca. 45 min | Arbeitspakete B und C arbeitsteilig; Film | Infotexte fertig lesen |
-| ca. 5 min | **Stand-up** zu Beginn der 2. Stunde | |
-| ca. 25 min | Ergebnisse austauschen, Dosisvergleich recherchieren | |
-| ca. 35 min | Erklärkarte erstellen | ggf. fertigstellen |
-| ca. 10 min | **Review & Retro:** Karten im Raum auslegen, ein anderes Team gibt Feedback; Vier-Felder-Retro | |
 
 !!! info "So wird bewertet"
     Das [Bewertungsraster zu diesem Modul](#raster-modul0) zeigt für jedes Kriterium, was für die volle Punktzahl erwartet wird. Lest es vor der Sprint-Planung.
