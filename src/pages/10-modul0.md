@@ -17,7 +17,7 @@ Beim Zahnarzt soll ein Röntgenbild gemacht werden. Bevor es losgeht, bekommst d
 Im Folgenden findet ihr euren **Sprint-Plan**. Diesen sollt ihr zukünftig selbst erstellen.
 
 ## Sprint-Plan (3 Einzelstunden, 135 Minuten)
-Denk an das 5min-**Stand-up** zu Beginn jeder Stunde.
+Denkt an das 5min-**Stand-up** zu Beginn jeder Stunde.
 
 | Zeit | Im Unterricht | Zu Hause |
 | --- | --- | --- |
@@ -29,7 +29,7 @@ Denk an das 5min-**Stand-up** zu Beginn jeder Stunde.
 | ca. 10 min | **Review & Retro:** z. B. Karten im Raum auslegen, ein anderes Team gibt Feedback; Vier-Felder-Retro | |
 
 ## Scrumboard
-Verschafft euch einen Überblick über die Arbeitspakete und die Aufgaben. Notiert die Aufgaben (z. B. auf Post-Its) und füllt nun euer Scrumboard. Vorschläge dazu findet ihr am Ende der Seite.
+Verschafft euch einen Überblick über die Arbeitspakete und die Aufgaben. Notiert die Aufgaben (z. B. auf Post-Its) und füllt euer Scrumboard. Vorschläge dazu findet ihr am Ende der Seite.
 
 ## Arbeitspakete und Kriterien
 
@@ -44,7 +44,7 @@ Verschafft euch einen Überblick über die Arbeitspakete und die Aufgaben. Notie
     <span class="kr">Kriterium:</span> Jedes Teammitglied kann die drei Strahlungsarten und Röntgenstrahlung in einer Tabelle (Was ist es? Ladung? Reichweite? Abschirmung?) ohne Vorlage einordnen.
 
 !!! aufgabe "Arbeitspaket C · Was macht Strahlung im Körper?"
-    <span class="ap">C1</span> Lest den [Infotext](#info-bio-ausfuehrlich) und [Infotext](#infotext-dosisgroessen-alltag) zur biologischen Strahlenwirkung.<br>
+    <span class="ap">C1</span> Lest den [Infotext biologische Strahlenwirkung](#info-bio-ausfuehrlich) und [Infotext Dosisgrößen](#infotext-dosisgroessen-alltag).<br>
     <span class="ap">C2</span> Beschreibt in eigenen Worten die Wirkungskette von der Ionisation bis zum gesundheitlichen Schaden und erklärt den Unterschied zwischen **deterministischen** und **stochastischen** Schäden.<br>
     <span class="ap">C3</span> Recherchiert die effektive Dosis einer Zahnröntgenaufnahme und vergleicht sie mit der natürlichen Strahlenbelastung eines Jahres in Deutschland (Startpunkt: [BfS – Röntgen](https://www.bfs.de/DE/themen/ion/anwendung-medizin/diagnostik/roentgen/roentgen_node.html)).<br>
     <span class="kr">Kriterien:</span> Die Begriffe *Ionisierende Wirkung*, *natürliche und künstliche Strahlungsquellen*, *Energiedosis*, *Äquivalentdosis*, *Zellschäden* werden korrekt verwendet; der Dosisvergleich ist mit Zahlen und Quelle belegt.

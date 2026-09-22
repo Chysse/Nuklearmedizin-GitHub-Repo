@@ -8,7 +8,7 @@ badge: Modul I · Arbeitsblatt
 mod: 1
 ---
 
-Wir möchten untersuchen, wie die Zählrate vom **Abstand** zur Quelle eines radioaktiven Präparats abhängt. Ihr habt gelernt, dass Gammastrahlung dieselbe Natur wie sichtbares Licht hat. Deshalb können wir die Frage mit dem gewöhnlichen Licht einer **Halogenlampe** untersuchen und auf ein echtes radioaktives Präparat verzichten.
+Ihr untersucht, wie die Zählrate vom **Abstand** zur Quelle eines radioaktiven Präparats abhängt. Ihr habt gelernt, dass Gammastrahlung dieselbe Natur wie sichtbares Licht hat. Deshalb können wir die Frage mit dem gewöhnlichen Licht einer **Halogenlampe** untersuchen und auf ein echtes radioaktives Präparat verzichten.
 
 Im Experiment wird eine **Solarzelle** mit dem Licht der Lampe bestrahlt. Der Abstand $d$ wird schrittweise vergrößert. Mit dem Multimeter wird jeweils der Fotostrom $I$ der Solarzelle gemessen – er steht für die Intensität der Strahlung an der Solarzelle. Zur Messung wird der Raum verdunkelt.
 

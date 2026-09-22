@@ -51,7 +51,7 @@ Die Wirkung von Strahlung hängt stark von der aufgenommenen Dosis und der Strah
 
 Strahlenbelastung furch ionisierende Strahlung kommt auf verschiedenen Wegen zustande, es gibt natürliche und künstliche Strahlungsquellen. Die durchschnittliche natürliche Strahlenbelastung in Deutschland liegt bei etwa **2,1 mSv pro Jahr** (1 mSv = 1 Millisievert = 0,001 Sv) und kann je nach Lebensgewohnheiten, Wohnort und Ernährung zwischen 1 mSv und 10 mSv schwanken. Dazu kommen im Mittel etwa 1,9 mSv pro Jahr aus zivilisatorischen Quellen – fast ausschließlich aus der Medizin. Natürliche ionisierende Strahlung ist seit jeher Bestandteil der Umwelt des Menschen, der menschliche Körper hat sich daran angepasst.
 
-Die Angaben zur Strahlenbelastung beziehen sich auf die sogenannte **effektive Dosis**. Weitere Informationen zu den **Dosisgrößen** findest du im [Infotext] Dosisgrößen(#infotext-dosisgroessen-alltag).
+Die Angaben zur Strahlenbelastung beziehen sich auf die sogenannte **effektive Dosis**. Weitere Informationen zu den **Dosisgrößen** findest du im [Infotext Dosisgrößen](#infotext-dosisgroessen-alltag).
 
 ![Kreisdiagramm: natürliche Strahlenexposition ca. 2,1 mSv/a (Radon, terrestrische Strahlung, Nahrung, kosmische Strahlung) und künstliche Strahlenexposition ca. 1,9 mSv/a (fast vollständig Medizin)](assets/Diagramm.png "Mittlere Strahlenexposition in Deutschland pro Jahr (KI-generiert nach Angaben des Bundesamts für Strahlenschutz)")
 
