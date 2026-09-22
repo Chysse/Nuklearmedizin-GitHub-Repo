@@ -53,7 +53,7 @@ Strahlenbelastung furch ionisierende Strahlung kommt auf verschiedenen Wegen zus
 
 Die Angaben zur Strahlenbelastung beziehen sich auf die sogenannte **effektive Dosis**. Weitere Informationen zu den **Dosisgrößen** findest du im [Infotext] Dosisgrößen(#infotext-dosisgroessen-alltag).
 
-![Kreisdiagramm: natürliche Strahlenexposition ca. 2,1 mSv/a (Radon, terrestrische Strahlung, Nahrung, kosmische Strahlung) und künstliche Strahlenexposition ca. 1,9 mSv/a (fast vollständig Medizin)](assets/diagramm.png "Mittlere Strahlenexposition in Deutschland pro Jahr (KI-generiert nach Angaben des Bundesamts für Strahlenschutz)")
+![Kreisdiagramm: natürliche Strahlenexposition ca. 2,1 mSv/a (Radon, terrestrische Strahlung, Nahrung, kosmische Strahlung) und künstliche Strahlenexposition ca. 1,9 mSv/a (fast vollständig Medizin)](assets/Diagramm.png "Mittlere Strahlenexposition in Deutschland pro Jahr (KI-generiert nach Angaben des Bundesamts für Strahlenschutz)")
 
 ### Deterministische Schäden
 
