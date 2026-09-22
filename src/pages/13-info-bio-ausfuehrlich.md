@@ -19,7 +19,7 @@ Ionisierende Strahlung (Röntgenstrahlung, ionisierende Strahlung) ist sehr ener
 
 Die Energie der Strahlung kann in den Körperzellen Ionisationsprozesse auslösen. Als Folge können Zellen **direkt** geschädigt werden, weil für die Funktion der Zelle wichtige Moleküle zerstört werden oder nicht mehr wie vorgesehen funktionieren. Darüber hinaus kann eine **indirekte** Schädigung stattfinden: Werden Wassermoleküle im Körper ionisiert, bilden sich chemisch sehr reaktive **Radikale**, die ebenfalls Moleküle in den Zellen zerstören oder deren Funktion beeinträchtigen.
 
-![Strahlenbiologische Wirkungskette](assets/Strahlenbiologische_Wirkungskette.jpg "Strahlenbiologische Wirkungskette (KI-generiert)")
+![Strahlenbiologische Wirkungskette](assets/Strahlenbiologische_Wirkungskette.png "Strahlenbiologische Wirkungskette (KI-generiert)")
 
 Eine Zellschädigung hat nicht automatisch dauerhafte Auswirkungen auf den Körper. Je nach Art und Ausmaß des Schadens können Zellen beschädigte Strukturen wiederherstellen. Darüber hinaus verfügt der Organismus über Kontrollmechanismen, durch die stark geschädigte oder nicht mehr funktionsfähige Zellen erkannt und beseitigt werden können. Dadurch kann verhindert werden, dass aus einer einzelnen Zellschädigung eine bleibende Beeinträchtigung entsteht.
 
