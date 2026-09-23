@@ -115,7 +115,8 @@ li.task-list-item.done>label,li.task-list-item.done>.task-list-control+*{color:v
 .pagehead{margin-bottom:1em}
 .badge{display:inline-block;font-size:.75em;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:#fff;background:var(--accent);border-radius:999px;padding:.15em .7em;margin-bottom:.4em}
 .pagefoot{margin-top:2em;padding-top:.8em;border-top:1px solid var(--line);font-size:.9em}
-.sitefoot{text-align:center;color:var(--muted);font-size:.8em;padding:1em}
+.sitefoot{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:.6em;text-align:center;color:var(--muted);font-size:.8em;padding:1em}
+.nun-logo{height:2.4em;width:auto;vertical-align:middle}
 
 /* Modulfarben */
 .badge.m0{background:var(--m0)} .badge.m1{background:var(--m1)} .badge.m2{background:var(--m2)}

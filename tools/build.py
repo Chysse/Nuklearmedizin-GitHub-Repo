@@ -211,6 +211,7 @@ def main():
     css = open(os.path.join(SRC, 'style.css'), encoding='utf-8').read()
     js = open(os.path.join(SRC, 'app.js'), encoding='utf-8').read()
     stamp = datetime.date.today().strftime('%d.%m.%Y')
+    nun_logo = data_uri(os.path.join(SRC, 'assets', 'nun-logo.jpg'))
 
     doc = f'''<!DOCTYPE html>
 <html lang="de">
@@ -239,7 +240,7 @@ def main():
 {chr(10).join(body_parts)}
 </main>
 </div>
-<footer class="sitefoot">Lerneinheit Nuklearmedizin · Stand {stamp} · Diese Datei ist vollständig eigenständig (Bilder und Formeln sind eingebettet).</footer>
+<footer class="sitefoot"><img class="nun-logo" src="{nun_logo}" alt="Logo: NUN – Naturwissenschaftlicher Unterricht in Niedersachsen">Lerneinheit Nuklearmedizin · Stand {stamp} · erstellt im Rahmen von NUN (Naturwissenschaftlicher Unterricht in Niedersachsen) · Diese Datei ist vollständig eigenständig (Bilder und Formeln sind eingebettet).</footer>
 <script>
 {js}
 </script>
