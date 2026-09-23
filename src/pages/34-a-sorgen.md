@@ -35,7 +35,7 @@ Hilfe zum Lesen der Schreibweise $^{99}_{42}\mathrm{Mo}$ und zu den Zerfallsarte
 
 **Aufgabe 5 – Der kleine Sohn.** Der Facharzt weist Frau A. darauf hin, dass sie ihren kleinen Sohn in den nächsten **24 Stunden** nicht auf den Schoß nehmen sollte.
 
-1. Erklärt diese Schutzmaßnahme mit zwei der [fünf A](#info-fuenf-a) und mit dem [Abstandsgesetz](#info-abstandsgesetz).
+1. Erklärt diese Schutzmaßnahme mit zwei der [fünf A](#info-fuenf-a) und mit dem Abstandsgesetz.
 2. Ist es sinnvoll, die Maßnahme „sicherheitshalber“ auf eine Woche auszudehnen? Rechnet mit der Halbwertszeit: Wie viel Prozent der Aktivität sind nach 24 h, nach 48 h, nach einer Woche noch vorhanden?
 3. Warum gelten für Kinder und Schwangere strengere Regeln als für Erwachsene? (Hilfe: [Infotext Biologische Strahlenwirkung](#info-bio-ausfuehrlich), Abschnitt zur Empfindlichkeit von Gewebe.)
 
