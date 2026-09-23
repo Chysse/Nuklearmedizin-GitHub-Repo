@@ -47,6 +47,30 @@ def _insert_math(htmltext):
         return f'<span class="{cls}">{svg}</span>'
     return re.sub('\x00MATH(\\d+)\x00', repl, htmltext)
 
+# ---------- Links in Bildunterschriften -------------------------------------
+# In einem Bildtitel (`![Alt](bild.jpg "Titel")`) ist ein Markdown-Link wie
+# `[Text](URL)` eigentlich nicht gültig - title="..." ist reiner Text. Python-
+# Markdown erkennt das Linkmuster trotzdem an, kann es im Titel aber nicht als
+# <a> einbauen und wirft dabei die URL weg (nur der Linktext bleibt übrig).
+# Deshalb werden solche Links hier - wie bei den Formeln - vor der Konvertierung
+# durch einen Platzhalter ersetzt und danach als echtes <a>-Tag eingesetzt.
+_caption_links = []  # (text, url)
+
+def _extract_caption_links(text):
+    def repl_title(m):
+        def repl_link(lm):
+            _caption_links.append((lm.group(1), lm.group(2)))
+            return f'\x00CAPLINK{len(_caption_links)-1}\x00'
+        title = re.sub(r'\[([^\]]+)\]\((https?://[^\s)]+)\)', repl_link, m.group(2))
+        return m.group(1) + title + m.group(3)
+    return re.sub(r'(!\[[^\]]*\]\([^\s")]+\s+")([^"]*)(")', repl_title, text)
+
+def _insert_caption_links(htmltext):
+    def repl(m):
+        text, url = _caption_links[int(m.group(1))]
+        return f'<a href="{html.escape(url)}" target="_blank" rel="noopener">{html.escape(text)}</a>'
+    return re.sub(r'\x00CAPLINK(\d+)\x00', repl, htmltext)
+
 # ---------- Bilder ---------------------------------------------------------
 def _optimize_image(path):
     """Skaliert ein Bild auf max. MAX_IMG_DIM px und komprimiert es fürs Einbetten.
@@ -130,6 +154,7 @@ def strip_comments(body):
 def render_md(body):
     body = strip_comments(body)
     body = _extract_math(body)
+    body = _extract_caption_links(body)
     md = markdown.Markdown(extensions=MD_EXT, extension_configs=MD_CFG)
     out = md.convert(body)
     return out
@@ -173,6 +198,7 @@ def main():
     for (meta, _), h in zip(pages, rendered):
         h = _insert_math(h)
         h = figures(h)
+        h = _insert_caption_links(h)
         h = embed_images(h)
         badge = meta.get('badge', '')
         modcls = f' m{meta["mod"]}' if meta.get('mod') else ''
