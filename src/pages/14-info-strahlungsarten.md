@@ -65,4 +65,4 @@ Welche Strahlungsart ein Präparat aussendet, lässt sich im Experiment auf zwei
 !!! info "Weiterlesen"
     [LEIFIphysik – Überblick über die Strahlungsarten](https://www.leifiphysik.de/kern-teilchenphysik/radioaktivitaet-einfuehrung/grundwissen/ueberblick-ueber-die-strahlungsarten)
 
-[^1]: Genau genommen entsteht beim Beta-Minus-Zerfall zusätzlich ein Antineutrino, ein nahezu masseloses, ungeladenes Teilchen, das praktisch nicht mit Materie wechselwirkt. Für den Unterricht in Klasse 10 kann es weggelassen werden; in der Übersichtstabelle von LEIFIphysik ist es als $\bar{\nu}_e$ enthalten.
+[^1]: Genau genommen entsteht beim Beta-Minus-Zerfall zusätzlich ein Antineutrino $\bar{\nu}_e$, ein nahezu masseloses, ungeladenes Teilchen, das praktisch nicht mit Materie wechselwirkt. Für den Unterricht in Klasse 10 kann es weggelassen werden.
