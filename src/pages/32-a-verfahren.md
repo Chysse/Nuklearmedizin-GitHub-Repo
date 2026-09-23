@@ -32,7 +32,7 @@ Um die Verteilung des Tracers im Körper abzubilden, benutzt man eine **Gammakam
 
 ![Szintigramm einer Schilddrüse](assets/Scintied.jpg "Szintigramm einer Schilddrüse: Größe und Stoffwechselaktivität sind erkennbar ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), Bionerd)")
 
-![Skelettszintigramm von vorn und hinten](assets/szintigramm_skelett_neu.jpg "Skelettszintigramm: dunkle Bereiche weisen auf Krebs hin ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.da), RadsWiki)")
+![Skelettszintigramm von vorn und hinten](assets/szintigraphie_skelett_neu.jpg "Skelettszintigramm: dunkle Bereiche weisen auf Krebs hin ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.da), RadsWiki)")
 </div>
 
 ## Aufgaben
