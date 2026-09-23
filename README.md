@@ -62,6 +62,7 @@ Eine Zeile, die mit `%%` beginnt, erscheint **nicht** in der Schülerfassung. So
 | Formel im Text / eigene Zeile | `$R = \frac{N}{\Delta t}$` / `$$ … $$` |
 | Bild mit Unterschrift | `![Beschreibung](assets/bild.jpg "Bildunterschrift")` |
 | Kasten | `!!! aufgabe "Titel"` und darunter den Inhalt um **vier Leerzeichen** eingerückt. Kastentypen: `aufgabe`, `info`, `tipp`, `warnung`, `video`, `lernprodukt`, `sprint`, `zusatz`, `warum`, `lehrkraft` |
+| Zwei Kästen nebeneinander (z. B. bei einer Wahlaufgabe) | `<div class="ap-row" markdown="1">`, **Leerzeile**, die beiden `!!!`-Kästen direkt untereinander, **Leerzeile**, `</div>` – siehe `20-modul1.md` (Arbeitspaket B/C). Auf schmalen Bildschirmen rutschen sie automatisch untereinander. |
 | Farbmarker | `<span class="ap">A1</span>` (Arbeitspaket), `<span class="kr">Kriterien:</span>`, `<span class="warumtag">Warum</span>` |
 | Tabelle | Zeilen mit `|` trennen; zweite Zeile `| --- | --- |`; leere Zellen werden zu Ausfüllfeldern |
 

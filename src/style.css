@@ -67,6 +67,12 @@ img.img-small{max-width:260px}
 .admonition.warum{border-left-color:#c0392b;background:#fdf2f0} .warum>.admonition-title::before{content:"?"}
 details.admonition summary{cursor:pointer;font-weight:700}
 
+/* Zwei (oder mehr) Kästen nebeneinander, z. B. wenn Lernende eines von
+   mehreren Arbeitspaketen wählen sollen. Auf schmalen Bildschirmen (iPad
+   hochkant, Handy) rutschen sie automatisch untereinander. */
+.ap-row{display:flex;flex-wrap:wrap;gap:1em;margin:1.2em 0}
+.ap-row>.admonition{flex:1 1 280px;margin:0}
+
 /* ---------- Checklisten ---------- */
 .task-list-item{list-style:none;margin-left:-1.4em}
 .task-list-control{position:relative;display:inline-block;margin-right:.4em}

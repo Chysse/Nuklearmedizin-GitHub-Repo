@@ -33,6 +33,8 @@ Denkt an das 5min-**Stand-up** zu Beginn jeder Stunde.
     Lest den [Infotext Die 5 A des Strahlenschutzes](#info-fuenf-a) und ordnet jede Schutzmaßnahme aus Modul 0 (Zahnarzt) einem der fünf A zu.<br>
     <span class="kr">Kriterium:</span> Jedes Teammitglied kann die fünf A nennen und je ein Beispiel geben.
 
+<div class="ap-row" markdown="1">
+
 !!! aufgabe "Arbeitspaket B · Abschirmung untersuchen"
     Wählt **eine** der beiden Untersuchungen (die Lehrkraft sagt, welche Geräte verfügbar sind):<br>
     <span class="ap">B1</span> [Simulation](#ab-abschirmung-simulation) (GeoGebra) – Zählrate in Abhängigkeit von der Schichtdicke, Halbwertsdicke bestimmen.<br>
@@ -45,6 +47,8 @@ Denkt an das 5min-**Stand-up** zu Beginn jeder Stunde.
     <span class="ap">C2</span> [Simulation](#ab-abstand-simulation) (GeoGebra) – Zählrate in Abhängigkeit vom Abstand.<br>
     <span class="ap">C1/C2</span>Lest den [Infotext Abstandsgesetz](#info-abstandsgesetz).<br>
     <span class="kr">Kriterien:</span> Messtabelle · Diagramm · Prüfung „doppelter Abstand → ein Viertel“ an mindestens zwei Beispielen · Begründung der Abstandsregel.
+
+</div>
 
 !!! aufgabe "Arbeitspaket D · Lernprodukt"
     Erstellt **Wandkarten zum Strahlenschutz** (siehe unten).<br>
