@@ -1,7 +1,7 @@
 ---
 id: info-effektive-dosis
-title: Station 4 – Effektive Dosis: Was ist viel, was ist wenig Strahlung?
-nav: Station 4 · Effektive Dosis (beide Pfade)
+title: Pfad 1 – Station 3 – Effektive Dosis: Was ist viel, was ist wenig Strahlung?
+nav: B1 – Station 3 · Effektive Dosis
 group: Modul II
 order: 43
 badge: Modul II · Station 4 · beide Pfade

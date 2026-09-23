@@ -1,7 +1,7 @@
 ---
 id: ab-abschirmung-simulation
-title: C1 - Simulation – Abschirmung von γ-Strahlung
-nav: Arbeitsblatt · Simulation Abschirmung
+title: Simulation – Abschirmung von γ-Strahlung
+nav: C1 - Arbeitsblatt · Simulation Abschirmung
 group: Modul I
 order: 24
 badge: Modul I · Arbeitsblatt

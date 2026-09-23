@@ -34,24 +34,24 @@ Denkt an das 5min-**Stand-up** zu Beginn jeder Stunde.
     <span class="kr">Kriterium:</span> Jedes Teammitglied kann die fünf A nennen und je ein Beispiel geben.
 
 !!! aufgabe "Arbeitspaket B · Vergleich der Strahlungsarten"
-    Führt das [AR-Experiment „Radiation Protection“](#ab-ar-experimente) durch und bestätigt die Aussage zur Reichweite und zum Durchdringungsvermögen der verschiedenen Strahlungsarten aus eurer Tabelle (Modul O, Arbeiutspaket B, [Infotext Strahlungsarten](#info-strahlungsarten)).<br>
+    Führt das [AR-Experiment Strahlungsarten](#ab-vergleich-strahlungsarten) durch und bestätigt die Aussage zur Reichweite und zum Durchdringungsvermögen der verschiedenen Strahlungsarten aus eurer Tabelle (Modul O, Arbeiutspaket B, [Infotext Strahlungsarten](#info-strahlungsarten)).<br>
     <span class="kr">Kriterium:</span> Jedes Teammitglied kann die Strahlungsarten hinsichltich ihrer Reichweite und ihres Durchdringungsvermögens unterscheiden.
 
 
-Wählt im Folgenden eins der beiden Arbeitspakete **C1 Abschirmung** oder **C2 Abstand**
+Wählt im Folgenden eins der beiden Arbeitspakete **C1 Abschirmung** oder **C2 Abstand**.
 
 <div class="ap-row" markdown="1">
 
 !!! aufgabe "Arbeitspaket C1 · Abschirmung untersuchen"
     Wählt **eine** der beiden Untersuchungen (die Lehrkraft sagt, welche Geräte verfügbar sind):<br>
-    <span class="ap">C1.1</span> [Simulation](#ab-abschirmung-simulation) (GeoGebra) – Zählrate in Abhängigkeit von der Schichtdicke, Halbwertsdicke bestimmen.<br>
-    <span class="ap">C1.2</span> [AR-Experiment „Radiation Protection“](#ab-ar-experimente) – Zählrate in Abhängigkeit von der Schichtdicke, Halbwertsdicke bestimmen.<br>
+    <span class="ap">C1.1</span> [Simulation Abschirmung](#ab-abschirmung-simulation) (GeoGebra) – Zählrate in Abhängigkeit von der Schichtdicke, Halbwertsdicke bestimmen.<br>
+    <span class="ap">C1.2</span> [AR-Experiment Abschirmung](#ab-ar-experimente) – Zählrate in Abhängigkeit von der Schichtdicke, Halbwertsdicke bestimmen.<br>
     <span class="kr">Kriterien:</span> Messtabelle mit Nullrate · Diagramm · Halbwertsdicke · Aussage zur Schutzwirkung einer Bleischürze bei Röntgen- und bei Gammastrahlung.
 
 !!! aufgabe "Arbeitspaket C2 · Abstand untersuchen"
     Wählt **eine** der beiden Untersuchungen:<br>
-    <span class="ap">C2.1</span> [Simulation](#ab-abstand-simulation) (GeoGebra) – Zählrate in Abhängigkeit vom Abstand.<br>
-    <span class="ap">C2.2</span> [Analogexperiment mit Halogenlampe und Solarzelle](#ab-abstand-analog) – Fotostrom in Abhängigkeit vom Abstand.<br>
+    <span class="ap">C2.1</span> [Simulation Abtand](#ab-abstand-simulation) (GeoGebra) – Zählrate in Abhängigkeit vom Abstand.<br>
+    <span class="ap">C2.2</span> [Analogexperiment Abstand mit Halogenlampe und Solarzelle](#ab-abstand-analog) – Fotostrom in Abhängigkeit vom Abstand.<br>
     <span class="kr">Kriterien:</span> Messtabelle · Diagramm · Prüfung „doppelter Abstand → ein Viertel“ an mindestens zwei Beispielen · Begründung der Abstandsregel.
 
 </div>

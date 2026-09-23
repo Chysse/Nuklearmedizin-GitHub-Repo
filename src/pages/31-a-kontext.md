@@ -1,14 +1,14 @@
 ---
 id: a-kontext
-title: Pfad A · Station 1 – Frau A. und die Szintigraphie
-nav: Pfad A · Station 1 · Grundlagen
+title: A1 – Patientin 1 und die Szintigraphie
+nav: A1 · Grundlagen
 group: Modul II
 order: 31
 badge: Modul II · Pfad A · Station 1
 mod: 2
 ---
 
-Frau A. muss ihre Schilddrüse untersuchen lassen. Sie hat gehört, dass dabei radioaktive Substanzen zum Einsatz kommen und Gammastrahlung verwendet wird. Nun möchte sie wissen: **Wie läuft eine Szintigraphie ab? Warum wird ausgerechnet ein Gammastrahler eingesetzt? Und auf welche Strahlenbelastung muss sie sich einstellen?**
+Eure Patientin muss ihre Schilddrüse untersuchen lassen. Sie hat gehört, dass dabei radioaktive Substanzen zum Einsatz kommen und Gammastrahlung verwendet wird. Nun möchte sie wissen: **Wie läuft eine Szintigraphie ab? Warum wird ausgerechnet ein Gammastrahler eingesetzt? Und auf welche Strahlenbelastung muss sie sich einstellen?**
 
 Ihr Facharzt gibt ihr das folgende Informationsblatt mit.
 
@@ -19,9 +19,9 @@ Lest das Informationsblatt und bearbeitet die Aufgaben. Notiert die Antworten so
 1. Beschreibt den Ablauf einer Schilddrüsen-Szintigraphie in einfachen Schritten.
 2. Erläutert, warum bei der Szintigraphie eine radioaktive Substanz eingesetzt wird – und warum es ein **Gammastrahler** sein muss (Hilfe: [Infotext Strahlungsarten](#info-strahlungsarten)).
 3. Gebt die zu erwartende Strahlenbelastung an und ordnet ihre biologische Wirkung ein (Hilfe: [Infotext Biologische Strahlenwirkung](#info-bio-ausfuehrlich)).
-4. Sammelt alle Fragen, die Frau A. nach dem Lesen vermutlich *noch* hat – sie bilden das Gerüst eurer Patienteninformation.
+4. Sammelt alle Fragen, die eure Patientin nach dem Lesen vermutlich *noch* hat – sie bilden das Gerüst eurer Patienteninformation.
 
-## M1 · Informationsblatt zur Schilddrüsen-Szintigraphie
+## Informationsblatt zur Schilddrüsen-Szintigraphie
 
 !!! info "Sehr geehrte Patientin, sehr geehrter Patient,"
     bei Ihnen ist eine nuklearmedizinische Untersuchung der Schilddrüse geplant, eine sogenannte **Schilddrüsen-Szintigraphie**. Bitte lesen Sie dieses Informationsblatt sorgfältig durch. Bei Fragen wenden Sie sich jederzeit an Ihr Behandlungsteam.
@@ -38,7 +38,5 @@ Lest das Informationsblatt und bearbeitet die Aufgaben. Notiert die Antworten so
 
     **Auf einen Blick.** Die Schilddrüsen-Szintigraphie ist sicher und schmerzfrei. Die Strahlenbelastung ist gering. Die Untersuchung liefert wichtige Informationen über die Funktion der Schilddrüse. Wenn Sie Fragen haben, sprechen Sie bitte mit Ihrem Behandlungsteam.
 
-!!! tipp "Weiter im Pfad A"
-    Station 2: [Wie entsteht ein Szintigramm?](#a-verfahren) · Station 3: [Radionuklide und Halbwertszeit](#a-radionuklide) · Station 4: [Effektive Dosis](#info-effektive-dosis) · Station 5: [Sorgen verstehen, Risiken einordnen](#a-sorgen)
 
-<small>Nach: NUN – Unterrichtseinheit Nuklearmedizin, 06a/07a (Stand 23.06.2026); Informationsblatt sprachlich gestrafft. Hinweis: Das Informationsblatt ist ein Unterrichtsmaterial und ersetzt keine ärztliche Aufklärung.</small>
+Hinweis: Das Informationsblatt ist ein Unterrichtsmaterial und ersetzt keine ärztliche Aufklärung.</small>

@@ -1,7 +1,7 @@
 ---
 id: a-radionuklide
-title: Pfad A · Station 3 – Radionuklide und Halbwertszeit
-nav: Pfad A · Station 3 · Tc-99m und Halbwertszeit
+title: Pfad 1 · Station 2 – Radionuklide und Halbwertszeit
+nav: B1 · Station 2 · Tc-99m und Halbwertszeit
 group: Modul II
 order: 33
 badge: Modul II · Pfad A · Station 3

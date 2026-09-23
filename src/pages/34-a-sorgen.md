@@ -1,7 +1,7 @@
 ---
 id: a-sorgen
-title: Pfad A · Station 5 – Sorgen verstehen, Risiken einordnen
-nav: Pfad A · Station 5 · Zerfallsreihe und Schutz
+title: Pfad 1 · Station 4 – Sorgen verstehen, Risiken einordnen
+nav: B1 · Station 4 · Zerfallsreihe und Schutz
 group: Modul II
 order: 34
 badge: Modul II · Pfad A · Station 5

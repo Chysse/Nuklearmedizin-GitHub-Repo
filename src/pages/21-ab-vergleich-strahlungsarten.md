@@ -7,6 +7,7 @@ order: 22
 badge: Modul I · Arbeitsblatt
 mod: 1
 ---
+
 Mit der App **Radiation Protection** (Augmented Reality) führt ihr einen klassischen Schulversuch mit radioaktiven Präparaten virtuell durch – ohne echtes Präparat. Drei ausgedruckte **Bildmarker** stehen für Quelle, Abschirmmaterial und Detektor; die Kamera des iPads erkennt sie und blendet die Geräte und die Strahlung ins Kamerabild ein. Als Quellen stehen Am-241, Sr-90, Ra-226 und Co-60 zur Verfügung, als Abschirmmaterialien Eisen, Blei, Beton, Polyethylen und Aluminium. Der Abstand ist variabel.
 
 !!! tipp "Protokoll"

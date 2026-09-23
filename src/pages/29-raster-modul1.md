@@ -82,8 +82,7 @@ Die Skala gilt einheitlich für alle Einzelkriterien; die Erwartung bei voller P
 | C Kommunikation und Dokumentation | | 18 |
 | D Bewertung | | 6 |
 | E Arbeitsprozess (Team) | | 6 |
-
-| **Gesamt** | | **66** |
+| **Gesamt** | | **60** |
 
 **Erreichte Punkte:** ________ / 60 Punkte 
 

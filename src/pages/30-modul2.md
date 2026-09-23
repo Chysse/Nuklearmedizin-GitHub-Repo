@@ -8,34 +8,43 @@ badge: Modul II · 4 Doppelstunden · zwei Pfade
 mod: 2
 ---
 
-Zwei Frauen, zwei Wege in die Nuklearmedizin. **Frau A.** muss ihre Schilddrüse untersuchen lassen – mit einer *Szintigraphie*, bei der ihr ein radioaktiver Stoff gespritzt wird. **Frau B.** hat Schilddrüsenkrebs und soll mit radioaktivem Iod behandelt werden – *Radioiodtherapie*. Beide haben Fragen: Wie funktioniert das? Warum ausgerechnet Strahlung? Wie viel bekomme ich ab? Muss ich ins Krankenhaus? Darf mein Enkel auf den Schoß, darf meine schwangere Tochter zu Besuch kommen?
+Zwei Frauen, zwei Wege in die Nuklearmedizin. **Patientin 1** muss ihre Schilddrüse untersuchen lassen – mit einer *Szintigraphie*, bei der ihr ein radioaktiver Stoff gespritzt wird. **Patientin 2** hat Schilddrüsenkrebs und soll mit radioaktivem Iod behandelt werden – *Radioiodtherapie*. Beide haben Fragen: Wie funktioniert das? Warum ausgerechnet Strahlung? Wie viel bekomme ich ab? Muss ich ins Krankenhaus? Darf mein Enkel auf den Schoß, darf meine schwangere Tochter zu Besuch kommen?
 
-Ihr arbeitet **arbeitsteilig**: Die Hälfte der Teams begleitet Frau A. (**Pfad A · Szintigraphie**), die andere Hälfte Frau B. (**Pfad B · Radioiodtherapie**). Beide Pfade führen durch dieselbe Physik – Strahlungsarten, Halbwertszeit, Zerfallsreihen, effektive Dosis, Strahlenschutz – nur in anderer Reihenfolge und an einem anderen Fall. In Modul III treffen sich beide Pfade im Arzt-Patienten-Gespräch.
-
-!!! warum "Warum ist das wichtig?"
-    Diagnostik und Therapie mit Radionukliden sind Alltag in jeder größeren Klinik. Wer die Physik dahinter versteht, kann Merkblätter lesen, Ängste einordnen und Schutzregeln begründen – für sich und für andere.
+Ihr wählt aus: Begleitet Frau A. (**Pfad 1 · Szintigraphie**) oder Herrn A. (**Pfad 2 · Radioiodtherapie**). Beide Pfade führen durch dieselbe Physik – Strahlungsarten, Halbwertszeit, Zerfallsreihen, effektive Dosis, Strahlenschutz – nur in anderer Reihenfolge und an einem anderen Fall. In Modul III erolgt Behandlungsplan-Gespräch.
 
 ## Die beiden Pfade
 
+<div class="ap-row" markdown="1">
+
 <div class="tiles" markdown="1">
-<a class="tile m2" href="#a-kontext"><b>Pfad A · Szintigraphie (Frau A.)</b>Diagnostik mit Technetium-99m<small>Grundlagen → Wie entsteht ein Szintigramm? → Radionuklide und Halbwertszeit → Effektive Dosis → Sorgen und Zerfallsreihe</small></a>
-<a class="tile m5" href="#b-kontext"><b>Pfad B · Radioiodtherapie (Frau B.)</b>Therapie mit Iod-131<small>Grundlagen → Strahlungsart und Krankenhaus → Halbwertszeit → Effektive Dosis und Risiko-Nutzen → Zerfallsreihe und Nuklidkarte</small></a>
+<a class="tile m2" href="#a-kontext"><b>Pfad 1 · Szintigraphie (Patientin 1)</b>Diagnostik mit Technetium-99m<small>Grundlagen → Wie entsteht ein Szintigramm? → Radionuklide und Halbwertszeit → Effektive Dosis → Sorgen und Zerfallsreihe</small></a>
+
+<a class="tile m5" href="#b-kontext"><b>Pfad 2 · Radioiodtherapie (Patientin 2)</b>Therapie mit Iod-131<small>Grundlagen → Strahlungsart und Krankenhaus → Halbwertszeit → Effektive Dosis und Risiko-Nutzen → Zerfallsreihe und Nuklidkarte</small></a>
+
 </div>
 
 Gemeinsam für beide Pfade: [Würfelsimulation zur Halbwertszeit](#ab-wuerfel), [Infotext Aktivität, Zählrate und Halbwertszeit](#info-halbwertszeit), [Infotext Effektive Dosis](#info-effektive-dosis), [Infotext Zerfallsreihen und Nuklidkarte](#info-zerfallsreihen) und ein **Zwischenplenum** mit der ganzen Klasse zur Halbwertszeit (ggf. mit Demoexperiment).
+
+!!! warum "Warum ist das wichtig?"
+    Diagnostik und Therapie mit Radionukliden sind Alltag in jeder größeren Klinik. Wer die Physik dahinter versteht, kann Merkblätter lesen, Ängste einordnen und Schutzregeln begründen – für sich und für andere.
 
 ## Arbeitspakete und Kriterien (für beide Pfade)
 
 !!! aufgabe "Arbeitspaket A · Die Fallgeschichte verstehen"
     Lest die Fallgeschichte eures Pfads und das ärztliche Informationsblatt. Sammelt alle Fragen der Patientin und ordnet sie den physikalischen Themen zu (Strahlungsart, Halbwertszeit, Dosis, Schutz, Zerfallsreihe).<br>
+    A1: [Patientin 1: Szintigraphie](#a-kontext)
+    A2: [Patinetin 2: Rdioiodtherapie](#b-kontext)
     <span class="kr">Kriterium:</span> Die Fragen der Patientin sind vollständig notiert und jede ist einem Thema zugeordnet.
 
-!!! aufgabe "Arbeitspaket B · Die Physik dahinter (arbeitsteilig)"
-    Bearbeitet die vier Stationen eures Pfads. Verteilt die Stationen im Team, aber tauscht euch nach jeder Station aus – am Ende muss *jede Person* alle Fragen der Patientin beantworten können.<br>
+!!! aufgabe "Arbeitspaket B · Die Physik dahinter"
+    Bearbeitet die vier Stationen eures Pfads. Am Ende muss *jede Person* alle Fragen der Patientin beantworten können.<br>
+    Startet mit Station 1.
+    B1: [Patientin 1: Szintigraphie](#a-verfahren)
+    B2: [Patinetin 2: Rdioiodtherapie](#b-physik)
     <span class="kr">Kriterien:</span> Alle Aufgaben der Stationen bearbeitet · Würfelsimulation durchgeführt und ausgewertet · Halbwertszeit am Diagramm abgelesen · effektive Dosis mit Vergleichswerten eingeordnet · Zerfallsreihe des verwendeten Nuklids aufgestellt.
 
 !!! aufgabe "Arbeitspaket C · Lernprodukt"
-    Erstellt die **Patienteninformation** (siehe unten).<br>
+    Erstellt eine **Patienteninformation** (siehe unten).<br>
     <span class="kr">Kriterien:</span> beantwortet alle Fragen der Patientin · fachlich korrekt (Nuklid, Strahlungsart, Halbwertszeit, Dosis mit Vergleich, Schutzregeln mit Begründung) · verständlich und beruhigend, ohne zu verharmlosen · mindestens eine Abbildung (Zerfallsreihe oder Abklingkurve) · Quellen.
 
 !!! lernprodukt "Lernprodukt: Patienteninformation"
@@ -47,7 +56,7 @@ Gemeinsam für beide Pfade: [Würfelsimulation zur Halbwertszeit](#ab-wuerfel), 
     - **Wie lange „strahle“ ich – und was heißt das für meine Familie?** Halbwertszeit, Zerfallsreihe, Schutzregeln (die 5 A) mit Begründung und Zeitangaben.
     - **Wo bekomme ich Hilfe?** Ein Satz, der zur Nachfrage beim Behandlungsteam ermutigt.
 
-    In Modul III nutzt ihr diese Information als Grundlage für das Arzt-Patienten-Gespräch – und das andere Team liest sie als „Patientin“.
+    In Modul III nutzt ihr diese Information als Grundlage für das Behandlungsplan-Gespräch – und ein anderes Team liest sie als „Patientin“.
 
 ## Sprint-Plan (4 Doppelstunden)
 
