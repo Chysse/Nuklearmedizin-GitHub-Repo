@@ -32,5 +32,3 @@ Und weil radioaktiver Zerfall ein Zufallsprozess ist, schwanken die Zählraten v
 
 !!! info "Merke"
     Die 5 A sind keine Verbote, sondern Werkzeuge: Wer sie kennt, kann in jeder Situation abschätzen, welche Maßnahme am meisten bringt.
-
-<small>Nach: NUN – Naturwissenschaftlicher Unterricht in Niedersachsen, Unterrichtseinheit Nuklearmedizin (2026)</small>

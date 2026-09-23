@@ -34,7 +34,7 @@ An der Gleichung erkennst du, dass sich auch Betastrahler in ein neues Element u
 
 Bei Alpha- und Betastrahlung werden **Teilchen** abgestrahlt. Gammastrahlung ist dagegen **keine Teilchenstrahlung**, sondern – wie Licht – eine **elektromagnetische Strahlung**, nur mit sehr viel höherer Energie. Deshalb ändern sich bei ihr weder Kernladungszahl noch Massenzahl:
 
-$$^{222}_{86}\mathrm{Rn}^{*} \rightarrow\ ^{222}_{86}\mathrm{Rn} + \gamma$$
+$$^{137}_{56}\mathrm{Ba}^{*} \rightarrow\ ^{137}_{56}\mathrm{Ba} + \gamma$$
 
 Der Stern bedeutet: Der Kern befindet sich in einem angeregten Zustand mit überschüssiger Energie. Gammastrahlung tritt häufig nach einem Alpha- oder Betazerfall auf, weil der neu entstandene Kern noch Energie abgibt. Sie lässt sich in elektrischen und magnetischen Feldern **nicht** ablenken, weil sie nicht aus geladenen Teilchen besteht. Gammastrahlung hat ein wesentlich **höheres Durchdringungsvermögen** als Alpha- oder Betastrahlung: Selbst dicke Schichten aus Beton oder Blei schwächen sie nur ab, schirmen sie aber nie vollständig ab.
 
@@ -46,7 +46,7 @@ Röntgenstrahlung verhält sich wie Gammastrahlung (elektromagnetisch, ungeladen
 
 ## Übersicht
 
-| | $\alpha$ | $\beta^-$ | $\gamma$/Röntgenstrahlung |
+| | $\alpha$ | $\beta^-$ | $\gamma$ / Röntgenstrahlung |
 | --- | --- | --- | --- |
 | Was ist es? | Heliumkerne | Elektronen | elektromagnetische Strahlung |
 | Ladung | +2e | −e | keine |
@@ -57,9 +57,9 @@ Röntgenstrahlung verhält sich wie Gammastrahlung (elektromagnetisch, ungeladen
 
 ## Experimentelle Unterscheidung
 
-Welche Strahlungsart ein Präparat aussendet, lässt sich im Experiment auf zwei Wegen herausfinden: Einerseits über das **Durchdringungsvermögen** verschiedener Abschirmungen (. Abb. unten; Papier stoppt α, einige Millimeter Aluminium stoppen β, γ wird erst von dickem Blei merklich geschwächt) oder über die **Ablenkung im elektischen Feld** (Additum-Link).
+Welche Strahlungsart ein Präparat aussendet, lässt sich im Experiment auf zwei Wegen herausfinden: Einerseits über das **Durchdringungsvermögen** verschiedener Abschirmungen (Papier stoppt α, einige Millimeter Aluminium stoppen β, γ wird erst von dickem Blei merklich geschwächt) oder über die Ablenkung im elektischen Feld.
 
-![Abschirmung durch verschiedene Materialien: Papier, Aluminium und Blei](assets/radiactive-penetration.jpg "Unterscheidung der Strahlungsarten durch Abschirmung (Quelle: [CC-BY-2.5](https://creativecommons.org/licenses/by/2.5/deed.en), [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [GFDL](https://de.wikipedia.org/wiki/GNU-Lizenz_f%C3%BCr_freie_Dokumentation) Stannered, Ehamberg, MikeRun)")
+![Abschirmung durch verschiedene Materialien: Papier, Aluminium und Blei](assets/radiactive-penetration.jpg "Unterscheidung der Strahlungsarten durch Abschirmung (Quelle: [CC-BY-2.5](https://creativecommons.org/licenses/by/2.5/deed.en), [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en), [GFDL](https://de.wikipedia.org/wiki/GNU-Lizenz_f%C3%BCr_freie_Dokumentation) Stannered, Ehamberg, MikeRun)"){: .img-small }
 
 
 !!! info "Weiterlesen"

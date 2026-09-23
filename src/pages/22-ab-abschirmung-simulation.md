@@ -43,6 +43,7 @@ Mit einer realitätsnahen **GeoGebra-Simulation** untersuchst du, wie gut Blei (
 **Aufgabe 5 – Eisen.** Untersuche mit der zweiten Simulation, ob es auch für Eisen sinnvoll ist, eine Halbwertsdicke anzugeben, und bestimme sie gegebenenfalls. Welches Material ist zur Abschirmung besser geeignet – Eisen oder Blei? Begründe.
 
 **Aufgabe 6 – Anwendung.** Die Abschirmfähigkeit von Blei hängt stark von der Energie der Strahlung ab. Röntgenstrahlung, wie sie beim Zahnarzt verwendet wird, ist deutlich energieärmer als $\gamma$-Strahlung.
+
 1. Für typische Röntgenstrahlung beträgt die Halbwertsdicke von Blei nur $d_{1/2} \approx 0{,}2\ \mathrm{mm}$. Bleischürzen haben eine Bleischicht von höchstens $0{,}5\ \mathrm{mm}$. Beurteile die Schutzwirkung dieser Schürzen beim Röntgen.
 2. Beurteile die Schutzwirkung derselben Schürze bei $\gamma$-Strahlung (Halbwertsdicke aus Aufgabe 4). Wie viele Schürzen müsste man übereinander tragen, um $\gamma$-Strahlung auf 50 % zu reduzieren? Was lässt sich über die Schutzwirkung bei $\alpha$- und $\beta$-Strahlung sagen?
 

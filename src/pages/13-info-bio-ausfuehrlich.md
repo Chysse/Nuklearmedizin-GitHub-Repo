@@ -8,7 +8,7 @@ badge: Modul 0 · Infotext
 mod: 0
 ---
 
-Ionisierende Strahlung (Röntgenstrahlung, ionisierende Strahlung) ist sehr energiereich. Trifft sie auf den menschlichen Körper oder andere Lebewesen, kann das zu Schädigungen der Zellen und damit zu schwerwiegenden gesundheitlichen Folgen führen. Um die Wirkung einschätzen zu können, sind vier Fragen wichtig:
+Ionisierende Strahlung (Röntgenstrahlung, $\alpha$-, $\beta$-, $\gamma$-Strahlung) ist sehr energiereich. Trifft sie auf den menschlichen Körper oder andere Lebewesen, kann das zu Schädigungen der Zellen und damit zu schwerwiegenden gesundheitlichen Folgen führen. Um die Wirkung einschätzen zu können, sind vier Fragen wichtig:
 
 - Ist die Strahlenquelle **außerhalb oder innerhalb** des Körpers?
 - Welche **Strahlenart** trifft auf den Körper?
@@ -76,4 +76,3 @@ Im Strahlenschutz geht man für stochastische Wirkungen davon aus, dass es keine
 
 Bei der medizinischen Nutzung werden Nutzen und Risiko sehr genau abgewogen. Bei **bildgebenden Verfahren** (Röntgen, CT, Szintigraphie) hält man die Dosis bewusst sehr klein, um möglichst wenige *stochastische* Schäden zu erzeugen. Bei der **Bestrahlung von Tumoren** setzt man dagegen gezielt auf die zerstörerische Wirkung der Strahlung: Man erzeugt bewusst *deterministische* Schäden an kranken Zellen (siehe Modul II).
 
-<small>Quellen: NUN – Naturwissenschaftlicher Unterricht in Niedersachsen, „01-AB-Infotext – Biologische Strahlenwirkung“; Bundesamt für Strahlenschutz.</small>

@@ -67,13 +67,6 @@ Die Skala gilt einheitlich für alle Einzelkriterien; die Erwartung bei voller P
 | **Scrum-Elemente** | Sprint-Planung, Scrumboard, Stand-ups und Retrospektive wurden durchgeführt und dokumentiert; Aufgaben waren sinnvoll verteilt, alle Teammitglieder können das Lernprodukt erklären. | 0 · 1 · 2 · 3 · 4 · 5 · 6 |
 
 
-## Zusatzpunkte (fakultativ)
-
-| Kriterium | Erwartung bei voller Punktzahl (6 Punkte) | Punkte |
-| --- | --- | --- |
-| **Vertiefende Inhalte** | Zusatzinhalte wie der ausführliche Infotext zur biologischen Strahlenwirkung, die experimentelle Unterscheidung der Strahlungsarten (Magnetfeld) oder die Röntgenröhre werden fachlich korrekt einbezogen. | 0 · 1 · 2 · 3 · 4 · 5 · 6 |
-
-
 ## Gesamtübersicht
 
 | Kompetenzbereich | Punkte erreicht | Punkte maximal |
@@ -83,10 +76,9 @@ Die Skala gilt einheitlich für alle Einzelkriterien; die Erwartung bei voller P
 | C Kommunikation und Dokumentation | | 18 |
 | D Bewertung | | 6 |
 | E Arbeitsprozess (Team) | | 6 |
-| Zusatzpunkte (fakultativ) | | 6 |
-| **Gesamt** | | **60** (+ 6 Zusatz) |
+| **Gesamt** | | **60** |
 
-**Erreichte Punkte:** ________ / 60 Punkte (Zusatzpunkte werden addiert, die Gesamtpunktzahl bleibt 60).
+**Erreichte Punkte:** ________ / 60 Punkte
 
 ## Notenschlüssel
 
