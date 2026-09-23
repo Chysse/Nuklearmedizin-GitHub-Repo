@@ -1,9 +1,9 @@
 ---
 id: ab-abstand-analog
 title: Experiment – Abstandsgesetz mit Licht (Analogexperiment)
-nav: Arbeitsblatt · Abstandsgesetz mit Licht
+nav: C2 - Arbeitsblatt · Abstandsgesetz mit Licht
 group: Modul I
-order: 24
+order: 27
 badge: Modul I · Arbeitsblatt
 mod: 1
 ---

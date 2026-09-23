@@ -1,9 +1,9 @@
 ---
 id: ab-abstand-simulation
 title: Simulation – Abstandsgesetz
-nav: Arbeitsblatt · Simulation Abstandsgesetz
+nav: C2 - Arbeitsblatt · Simulation Abstandsgesetz
 group: Modul I
-order: 25
+order: 26
 badge: Modul I · Arbeitsblatt
 mod: 1
 ---

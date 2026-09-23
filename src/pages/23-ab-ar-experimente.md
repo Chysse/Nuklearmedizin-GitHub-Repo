@@ -1,14 +1,14 @@
 ---
 id: ab-ar-experimente
-title: AR-Experimente– Strahlungsarten, Abstand, Abschirmung
-nav: Arbeitsblatt · AR-Experiment mit App „Radiation Protection“
+title: AR-Experimente – Abschirmung
+nav: C1 - Arbeitsblatt · AR-Experiment Abschirmung
 group: Modul I
-order: 23
+order: 25
 badge: Modul I · Arbeitsblatt
 mod: 1
 ---
 
-Mit der App **Radiation Protection** (Augmented Reality) führt ihr einen klassischen Schulversuch mit radioaktiven Präparaten virtuell durch – ohne echtes Präparat. Drei ausgedruckte **Bildmarker** stehen für Quelle, Abschirmmaterial und Detektor; die Kamera des iPads erkennt sie und blendet die Geräte und die Strahlung ins Kamerabild ein. Als Quellen stehen Am-241 ($\alpha$), Sr-90 ($\beta$), Ra-226 und Co-60 ($\gamma$) zur Verfügung, als Abschirmmaterialien Eisen, Blei, Beton, Polyethylen und Aluminium. Der Abstand bleibt konstant
+Mit der App **Radiation Protection** (Augmented Reality) führt ihr einen klassischen Schulversuch mit radioaktiven Präparaten virtuell durch – ohne echtes Präparat. Drei ausgedruckte **Bildmarker** stehen für Quelle, Abschirmmaterial und Detektor; die Kamera des iPads erkennt sie und blendet die Geräte und die Strahlung ins Kamerabild ein. Als Quellen stehen Am-241 ($\alpha$), Sr-90 ($\beta$), Ra-226 und Co-60 ($\gamma$) zur Verfügung, als Abschirmmaterialien Eisen, Blei, Beton, Polyethylen und Aluminium. Der Abstand bleibt konstant.
 
 !!! tipp "Protokoll"
     Ein gutes Protokoll dieser Aufgaben hat für jeden Versuch: Aufbau (Foto/Screenshot), Durchführung (was wurde verändert?), Messwerte (Tabelle), Auswertung (Diagramm, Rechnung), Deutung (was folgt daraus für den Strahlenschutz?).
@@ -18,7 +18,7 @@ Mit der App **Radiation Protection** (Augmented Reality) führt ihr einen klassi
 
 ## Aufbau
 
-Baut das Experiment wie im Demonstrationsexperiment der Lehrkraft auf (Co-60-Quelle, Zählrohr).
+Stelle die Quelle (Co-60) und das Zählrohr in einem Abstand von ca. 25 cm voreinander auf.
 
 ## Durchführung
 

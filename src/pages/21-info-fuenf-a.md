@@ -1,7 +1,7 @@
 ---
 id: info-fuenf-a
 title: Infotext – Die 5 A des Strahlenschutzes
-nav: Infotext · Die 5 A des Strahlenschutzes
+nav: A - Infotext · Die 5 A des Strahlenschutzes
 group: Modul I
 order: 21
 badge: Modul I · Infotext

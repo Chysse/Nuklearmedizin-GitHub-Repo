@@ -33,19 +33,25 @@ Denkt an das 5min-**Stand-up** zu Beginn jeder Stunde.
     Lest den [Infotext Die 5 A des Strahlenschutzes](#info-fuenf-a) und ordnet jede Schutzmaßnahme aus Modul 0 (Zahnarzt) einem der fünf A zu.<br>
     <span class="kr">Kriterium:</span> Jedes Teammitglied kann die fünf A nennen und je ein Beispiel geben.
 
+!!! aufgabe "Arbeitspaket B · Vergleich der Strahlungsarten"
+    Führt das [AR-Experiment „Radiation Protection“](#ab-ar-experimente) durch und bestätigt die Aussage zur Reichweite und zum Durchdringungsvermögen der verschiedenen Strahlungsarten aus eurer Tabelle (Modul O, Arbeiutspaket B, [Infotext Strahlungsarten](#info-strahlungsarten)).<br>
+    <span class="kr">Kriterium:</span> Jedes Teammitglied kann die Strahlungsarten hinsichltich ihrer Reichweite und ihres Durchdringungsvermögens unterscheiden.
+
+
+Wählt im Folgenden eins der beiden Arbeitspakete **C1 Abschirmung** oder **C2 Abstand**
+
 <div class="ap-row" markdown="1">
 
-!!! aufgabe "Arbeitspaket B · Abschirmung untersuchen"
+!!! aufgabe "Arbeitspaket C1 · Abschirmung untersuchen"
     Wählt **eine** der beiden Untersuchungen (die Lehrkraft sagt, welche Geräte verfügbar sind):<br>
-    <span class="ap">B1</span> [Simulation](#ab-abschirmung-simulation) (GeoGebra) – Zählrate in Abhängigkeit von der Schichtdicke, Halbwertsdicke bestimmen.<br>
-    <span class="ap">B2</span> [AR-Experiment „Radiation Protection“](#ab-ar-experimente) – Zählrate in Abhängigkeit von der Schichtdicke, Halbwertsdicke bestimmen.<br>
-    <span class="kr">Kriterien:</span> Messtabelle mit Nullrate · Diagramm · Halbwertsdicke (bei B1) bzw. Vergleich der Strahlungsarten (bei B2) · Aussage zur Schutzwirkung einer Bleischürze bei Röntgen- und bei Gammastrahlung.
+    <span class="ap">C1.1</span> [Simulation](#ab-abschirmung-simulation) (GeoGebra) – Zählrate in Abhängigkeit von der Schichtdicke, Halbwertsdicke bestimmen.<br>
+    <span class="ap">C1.2</span> [AR-Experiment „Radiation Protection“](#ab-ar-experimente) – Zählrate in Abhängigkeit von der Schichtdicke, Halbwertsdicke bestimmen.<br>
+    <span class="kr">Kriterien:</span> Messtabelle mit Nullrate · Diagramm · Halbwertsdicke · Aussage zur Schutzwirkung einer Bleischürze bei Röntgen- und bei Gammastrahlung.
 
-!!! aufgabe "Arbeitspaket C · Abstand untersuchen"
+!!! aufgabe "Arbeitspaket C2 · Abstand untersuchen"
     Wählt **eine** der beiden Untersuchungen:<br>
-    <span class="ap">C1</span> [Analogexperiment mit Halogenlampe und Solarzelle](#ab-abstand-analog) – Fotostrom in Abhängigkeit vom Abstand.<br>
-    <span class="ap">C2</span> [Simulation](#ab-abstand-simulation) (GeoGebra) – Zählrate in Abhängigkeit vom Abstand.<br>
-    <span class="ap">C1/C2</span>Lest den [Infotext Abstandsgesetz](#info-abstandsgesetz).<br>
+    <span class="ap">C2.1</span> [Simulation](#ab-abstand-simulation) (GeoGebra) – Zählrate in Abhängigkeit vom Abstand.<br>
+    <span class="ap">C2.2</span> [Analogexperiment mit Halogenlampe und Solarzelle](#ab-abstand-analog) – Fotostrom in Abhängigkeit vom Abstand.<br>
     <span class="kr">Kriterien:</span> Messtabelle · Diagramm · Prüfung „doppelter Abstand → ein Viertel“ an mindestens zwei Beispielen · Begründung der Abstandsregel.
 
 </div>
@@ -56,10 +62,7 @@ Denkt an das 5min-**Stand-up** zu Beginn jeder Stunde.
 
 !!! lernprodukt "Lernprodukt: Wandkarten zum Strahlenschutz"
     Fünf Karten (DIN A4 oder digital, z. B. Keynote-Folien) für den Physikraum – eine pro A. Jede Karte enthält: die Regel als Überschrift, eine Erklärung in eigenen Worten in zwei bis drei Sätzen, ein Beispiel (Zahnarzt, Krankenhaus, Kernkraftwerk, Alltag) und ein Bild oder eine Skizze. 
-    Die Karten **Abschirmung** und **Abstand** enthalten zusätzlich euer Diagramm mit einer Aussage wie „Doppelter Abstand – ein Viertel der Strahlung“ oder „x mm Blei halbieren die Zählrate“. Die Karten bleiben bis zum Ende der Einheit hängen; in Modul II und III greift ihr darauf zurück.
-
-!!! zusatz "Zum Weiterdenken (optional)"
-    Aufgabe 8 der [Abschirmungs-Simulation](#ab-abschirmung-simulation): Beim Betastrahler Strontium-90 verläuft die Abschirmkurve anders als bei Gammastrahlung. Findet heraus, warum – und was das für die Bleischürze bedeutet.
+    Die Karte **Abschirmung** bzw. **Abstand** enthält zusätzlich euer Diagramm mit einer Aussage wie „Doppelter Abstand – ein Viertel der Strahlung“ oder „x mm Blei halbieren die Zählrate“. Die Karten bleiben bis zum Ende der Einheit hängen; in Modul II und III greift ihr darauf zurück.
 
 
 !!! info "So wird bewertet"
@@ -68,12 +71,12 @@ Denkt an das 5min-**Stand-up** zu Beginn jeder Stunde.
 ## Vorschlag für euer Scrumboard
 
 - [ ] Infotext 5 A gelesen, Zahnarzt-Maßnahmen zugeordnet
+- [ ] Untersuchung zu Strahlungsarten durchgeführt
 - [ ] Untersuchung zur Abschirmung gewählt und durchgeführt (Nullrate beachtet)
-- [ ] Abschirmung: Tabelle, Diagramm, Halbwertsdicke bzw. Vergleich der Strahlungsarten
+- [ ] Abschirmung: Tabelle, Diagramm, Halbwertsdicke
 - [ ] Untersuchung zum Abstand gewählt und durchgeführt
 - [ ] Abstand: Tabelle, Diagramm, Viertelung geprüft
-- [ ] Infotext Abstandsgesetz gelesen, Begründung formuliert
-- [ ] Bleischürzen-Frage beantwortet (Röntgen vs. Gamma)
-- [ ] Fünf Wandkarten erstellt, zwei davon mit Diagramm
+- [ ] Übertragung auf Strahlenschutz erfolgt
+- [ ] Fünf Wandkarten erstellt, eine davon mit Diagramm
 - [ ] Kriterien geprüft, Quellen notiert
 - [ ] Retrospektive gemacht, Scrum Captain für Modul II bestimmt

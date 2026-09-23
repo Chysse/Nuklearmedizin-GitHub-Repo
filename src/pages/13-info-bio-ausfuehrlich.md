@@ -1,7 +1,7 @@
 ---
 id: info-bio-ausfuehrlich
 title: Infotext – Biologische Strahlenwirkung
-nav: Infotext · Biologische Strahlenwirkung
+nav: C - Infotext · Biologische Strahlenwirkung
 group: Modul 0
 order: 13
 badge: Modul 0 · Infotext

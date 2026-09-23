@@ -1,7 +1,7 @@
 ---
 id: info-strahlungsarten
 title: Infotext – Strahlungsarten
-nav: Infotext · Strahlungsarten (α, β, γ)
+nav: B - Infotext · Strahlungsarten (α, β, γ)
 group: Modul 0
 order: 12
 badge: Modul 0 · Infotext
