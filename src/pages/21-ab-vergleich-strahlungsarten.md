@@ -1,5 +1,5 @@
 ---
-id: ab-ar-einstiegsexperiment
+id: ab-vergleich-strahlungsarten
 title: AR-Experiment – Strahlungsarten
 nav: B - Arbeitsblatt · AR-Experiment Strahlunsgarten
 group: Modul I
