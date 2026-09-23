@@ -14,8 +14,6 @@ Ihr wählt aus: Begleitet Frau A. (**Pfad 1 · Szintigraphie**) oder Herrn A. (*
 
 ## Die beiden Pfade
 
-<div class="ap-row" markdown="1">
-
 <div class="tiles" markdown="1">
 <a class="tile m2" href="#a-kontext"><b>Pfad 1 · Szintigraphie (Patientin 1)</b>Diagnostik mit Technetium-99m<small>Grundlagen → Wie entsteht ein Szintigramm? → Radionuklide und Halbwertszeit → Effektive Dosis → Sorgen und Zerfallsreihe</small></a>
 
